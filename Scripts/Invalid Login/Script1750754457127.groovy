@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://itemoptixv2qa.winlen.us/login')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Object Repository/Page_itemOptix/input_Username_username'), 'CSATestuser')
 
 WebUI.click(findTestObject('Object Repository/Page_itemOptix/button_Next'))
@@ -39,13 +41,7 @@ WebUI.click(findTestObject('Object Repository/Page_ItemOptix/input_Password_logi
 
 WebUI.click(findTestObject('Object Repository/Page_ItemOptix/input_Password_login'))
 
-WebUI.setText(findTestObject('Object Repository/Page_ItemOptix/input_Username_username (1)'), 'Csatestuser')
+WebUI.setText(findTestObject('Object Repository/Page_ItemOptix/input_Username_username (1)'), 'Csatester')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_ItemOptix/input_Password_password'), 'tWxl1kWNWe5UF/Fu3hzFEQ==')
-
-WebUI.click(findTestObject('Object Repository/Page_ItemOptix/input_Password_login'))
-
-WebUI.click(findTestObject('Object Repository/Page_itemOptix/div_CS'))
-
-WebUI.click(findTestObject('Object Repository/Page_itemOptix/div_Logout'))
+WebUI.closeBrowser()
 
