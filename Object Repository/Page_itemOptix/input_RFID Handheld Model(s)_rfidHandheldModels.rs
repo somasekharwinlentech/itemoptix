@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_RFID Handheld Model(s)_rfidHandheldModels</name>
+   <tag></tag>
+   <elementGuidId>5d8856e4-3ff0-4898-904e-30c3cee5837c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='rfidHandheldModels']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;rfidHandheldModels&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;e.g., Zebra RFD40 Standard&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3df23b51-03c9-4407-bd94-78f04d5c5e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>40912b93-f7be-4f04-8d75-91d48a1dbef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>rfidHandheldModels</value>
+      <webElementGuid>da8c8574-727d-456e-9588-3e9ea17a2a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full p-3 border rounded-md  bg-gray-50</value>
+      <webElementGuid>9076d77e-5a8c-4d44-8032-1ae95388f1fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>e.g., Zebra RFD40 Standard</value>
+      <webElementGuid>2fec1bb6-dd51-462d-8965-4f680c42d4fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
+      <webElementGuid>be4cc35c-1b14-4ffe-8b9d-38c3cc0ed91f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='rfidHandheldModels']</value>
+      <webElementGuid>6e425408-1e71-42f5-85af-7349873af678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[3]/input</value>
+      <webElementGuid>f6806354-edae-48c1-9ca4-eefd9e500716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>82b859a7-52d5-40d9-b9f2-710c6f10a7b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'rfidHandheldModels' and @placeholder = 'e.g., Zebra RFD40 Standard']</value>
+      <webElementGuid>ec96b037-4249-4a85-b089-6e4350fc11ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

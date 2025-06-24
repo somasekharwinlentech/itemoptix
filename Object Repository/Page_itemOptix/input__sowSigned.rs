@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input__sowSigned</name>
    <tag></tag>
-   <elementGuidId>46d24fd2-75d2-4aaf-a79e-c60b961b910f</elementGuidId>
+   <elementGuidId>812b0389-f390-4515-896f-97533dea31ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@name='sowSigned']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>input[name=&quot;sowSigned&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>input[name=&quot;sowSigned&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,70 +29,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e46f98b3-1a03-4120-9009-45982fe14d01</webElementGuid>
+      <webElementGuid>29aebdec-3ad9-4b47-8286-2a3ebfd78bf9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>a97ee2ad-fbb4-4402-9be9-73bf748fb514</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>0119a927-1aea-4927-ba40-a2fcb6cd8395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b4d44b63-671e-4127-881c-c0d31d011ab9</webElementGuid>
+      <value>sowSigned</value>
+      <webElementGuid>7bcb2f3b-6e65-4728-b216-7b25a1dba7be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-[90%] p-3 pl-10 bg-slate-100 border border-slate-200 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>642d77b7-674d-4662-b788-e10443f1da2e</webElementGuid>
+      <value>form-checkbox h-5 w-5 text-blue-600 </value>
+      <webElementGuid>35391b5b-2a6c-4503-a36b-a588a9de4ef7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>dadab264-63fa-4233-9346-cf6c63ba5b5f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[1]/label[@class=&quot;inline-flex items-center&quot;]/input[@class=&quot;form-checkbox h-5 w-5 text-blue-600&quot;]</value>
+      <webElementGuid>1d09c671-2ef2-4a44-807c-c864e1eef4d3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>10b3aad3-1963-45c0-899b-8827f3fd6862</webElementGuid>
+      <value>//input[@name='sowSigned']</value>
+      <webElementGuid>93f12a83-26ab-4fa3-9994-44ac69aaa46d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>20dada52-408d-4123-8402-d2f552d291fd</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div/label[2]/input</value>
+      <webElementGuid>5af8ce14-6e38-4da7-8a16-3b158bf14015</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>e66a45e5-0856-4159-909d-cac3f8ded226</webElementGuid>
+      <value>//label[2]/input</value>
+      <webElementGuid>441e4eca-ebbe-429a-81a6-21a48903a186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username']</value>
-      <webElementGuid>9af0dfd6-8b23-4da8-b2d1-7a5d85deefba</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'sowSigned']</value>
+      <webElementGuid>b8694833-8b2e-404a-97e1-a5a27d2a3bf4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

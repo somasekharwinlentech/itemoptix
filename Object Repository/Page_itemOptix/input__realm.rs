@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input__realm</name>
    <tag></tag>
-   <elementGuidId>7db15bfc-4cb7-42c2-9120-ffca1fa65877</elementGuidId>
+   <elementGuidId>73731011-5e86-497b-a605-42ad1c8881f4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@name='realm']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[name=&quot;realm&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Password&quot;s</value>
+         <value>internal:attr=[placeholder=&quot;ItemOptixP2&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e2b905c-3cc3-4fa2-baeb-d3bf6539b8ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>c874ecc1-b7cf-4b53-a0c5-1e5569700fee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f7be1611-d83c-4d95-ac96-a5e287aa0d14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>pf-c-form-control</value>
-      <webElementGuid>3d89984c-a369-4154-a8d0-9a31f30f84ca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7cc290b3-d60b-4902-a609-769bf5ce4905</webElementGuid>
+      <webElementGuid>5b8874f1-c4b8-4839-a3a8-f1df0d4a2d8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>765a2690-6a5e-4d4e-a2bc-063066174e55</webElementGuid>
+      <value>text</value>
+      <webElementGuid>a7904562-d3ea-4557-8a27-90d84acb4a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>realm</value>
+      <webElementGuid>1bed8be9-8c0d-4199-81cc-4f47b4d848a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>ItemOptixP2</value>
+      <webElementGuid>f7e36087-54eb-4cb7-8d33-e9120ac492d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>c9f1ceeb-6291-4242-916f-1614e1e53cb0</webElementGuid>
+      <value>w-full p-3 border rounded-md bg-gray-50 </value>
+      <webElementGuid>59b251fe-f6db-4961-a0ee-404111e58dcf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>c00fc259-2de6-4c49-97ad-d3553a64a6f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[8]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
+      <webElementGuid>cdab048c-047c-42ee-9aaa-23ae3e1f4244</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>37633cf4-dfe5-4d40-9b4e-f9c1c962598c</webElementGuid>
+      <value>//input[@name='realm']</value>
+      <webElementGuid>30c4381b-ee8c-4433-a7bd-2a09dcd0206c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='kc-form-login']/div[2]/div/input</value>
-      <webElementGuid>37050004-480c-4d3a-a3db-4acf61602c35</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[8]/input</value>
+      <webElementGuid>fe6961fc-9592-4a4e-8706-a9a814e382cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>201f380a-b240-4f30-9036-71d3a472c741</webElementGuid>
+      <value>//div[8]/input</value>
+      <webElementGuid>7caf52d3-1870-4fb4-a779-cc52796df87a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>bbfa533c-fa59-423b-a467-09a016b1dfad</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'realm' and @placeholder = 'ItemOptixP2']</value>
+      <webElementGuid>a6fbca2d-b905-4bae-a472-d0820fb1ac6e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

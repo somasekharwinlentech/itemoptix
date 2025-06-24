@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Number of Devices Per Store_devicesPerStore</name>
    <tag></tag>
-   <elementGuidId>7db15bfc-4cb7-42c2-9120-ffca1fa65877</elementGuidId>
+   <elementGuidId>55a73271-7000-4637-a0c3-98dd684e0673</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@name='devicesPerStore']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[name=&quot;devicesPerStore&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Password&quot;s</value>
+         <value>input[name=&quot;devicesPerStore&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e2b905c-3cc3-4fa2-baeb-d3bf6539b8ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>c874ecc1-b7cf-4b53-a0c5-1e5569700fee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f7be1611-d83c-4d95-ac96-a5e287aa0d14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>pf-c-form-control</value>
-      <webElementGuid>3d89984c-a369-4154-a8d0-9a31f30f84ca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7cc290b3-d60b-4902-a609-769bf5ce4905</webElementGuid>
+      <webElementGuid>55facd57-a6e0-4f9f-a881-4915c11e3478</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>765a2690-6a5e-4d4e-a2bc-063066174e55</webElementGuid>
+      <value>number</value>
+      <webElementGuid>d7fe07ee-9414-4fa5-a2f9-03ffb76179f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>devicesPerStore</value>
+      <webElementGuid>92aaed4f-b90f-47e0-8570-874799df21bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>c9f1ceeb-6291-4242-916f-1614e1e53cb0</webElementGuid>
+      <value>w-full p-3 border rounded-md  bg-gray-50</value>
+      <webElementGuid>71c29211-f40f-49fe-8f47-a59f83a754dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>29222811-86d5-40ba-b418-97022593a154</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>c00fc259-2de6-4c49-97ad-d3553a64a6f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
+      <webElementGuid>e0bb6ff5-ed88-4011-bbef-a8c1a251e4da</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>37633cf4-dfe5-4d40-9b4e-f9c1c962598c</webElementGuid>
+      <value>//input[@name='devicesPerStore']</value>
+      <webElementGuid>e9c651fd-5e2d-4c83-a68d-2e6a248d213d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='kc-form-login']/div[2]/div/input</value>
-      <webElementGuid>37050004-480c-4d3a-a3db-4acf61602c35</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[3]/input</value>
+      <webElementGuid>c6cb317d-3449-47b8-b332-5d9474cbc8f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>201f380a-b240-4f30-9036-71d3a472c741</webElementGuid>
+      <value>//div[2]/div[3]/input</value>
+      <webElementGuid>47d0f55d-2943-4238-a324-75007e9a1606</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>bbfa533c-fa59-423b-a467-09a016b1dfad</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'devicesPerStore']</value>
+      <webElementGuid>556af2b8-4c93-4b56-9113-965a315bf404</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

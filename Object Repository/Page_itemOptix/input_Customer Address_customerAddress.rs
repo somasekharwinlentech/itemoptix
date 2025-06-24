@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input_Customer Address_customerAddress</name>
    <tag></tag>
-   <elementGuidId>46d24fd2-75d2-4aaf-a79e-c60b961b910f</elementGuidId>
+   <elementGuidId>01954a87-9b36-457f-b42d-6f3b65076d25</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@name='customerAddress']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>input[name=&quot;customerAddress&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>input[name=&quot;customerAddress&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e46f98b3-1a03-4120-9009-45982fe14d01</webElementGuid>
+      <webElementGuid>2e7266ec-2d88-4513-bcb8-4a2f0fdd30b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,62 +37,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a97ee2ad-fbb4-4402-9be9-73bf748fb514</webElementGuid>
+      <webElementGuid>7744a956-483b-41d6-8759-3e422a8e9cc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b4d44b63-671e-4127-881c-c0d31d011ab9</webElementGuid>
+      <value>customerAddress</value>
+      <webElementGuid>1809edba-f9a9-4fc3-89f6-e81d80292587</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-[90%] p-3 pl-10 bg-slate-100 border border-slate-200 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>642d77b7-674d-4662-b788-e10443f1da2e</webElementGuid>
+      <value>w-full p-3 border rounded-md bg-gray-50 </value>
+      <webElementGuid>e1020fa4-c7f6-40c1-a691-1182283a8df1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>dadab264-63fa-4233-9346-cf6c63ba5b5f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[6]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
+      <webElementGuid>757d5278-16c7-41a8-9152-137333ff6d78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>10b3aad3-1963-45c0-899b-8827f3fd6862</webElementGuid>
+      <value>//input[@name='customerAddress']</value>
+      <webElementGuid>bbf95f2a-63e2-440a-8f2b-5f2f8b94c7bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>20dada52-408d-4123-8402-d2f552d291fd</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[6]/input</value>
+      <webElementGuid>d55161e0-8542-4287-b9a6-f9cfc45000a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>e66a45e5-0856-4159-909d-cac3f8ded226</webElementGuid>
+      <value>//div[2]/div[6]/input</value>
+      <webElementGuid>de14f583-6ded-466a-a5c8-2117688fd7e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username']</value>
-      <webElementGuid>9af0dfd6-8b23-4da8-b2d1-7a5d85deefba</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'customerAddress']</value>
+      <webElementGuid>79e157d9-d542-43e8-86bf-42d2da30dfa9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

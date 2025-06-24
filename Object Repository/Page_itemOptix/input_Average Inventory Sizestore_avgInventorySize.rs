@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Average Inventory Sizestore_avgInventorySize</name>
    <tag></tag>
-   <elementGuidId>7db15bfc-4cb7-42c2-9120-ffca1fa65877</elementGuidId>
+   <elementGuidId>d8af615b-7365-4f7d-8f09-baa5778d24d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@name='avgInventorySize']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[name=&quot;avgInventorySize&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Password&quot;s</value>
+         <value>input[name=&quot;avgInventorySize&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e2b905c-3cc3-4fa2-baeb-d3bf6539b8ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>c874ecc1-b7cf-4b53-a0c5-1e5569700fee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f7be1611-d83c-4d95-ac96-a5e287aa0d14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>pf-c-form-control</value>
-      <webElementGuid>3d89984c-a369-4154-a8d0-9a31f30f84ca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7cc290b3-d60b-4902-a609-769bf5ce4905</webElementGuid>
+      <webElementGuid>10ea7c70-f1a2-42c2-9f9c-e9cddeab86cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>765a2690-6a5e-4d4e-a2bc-063066174e55</webElementGuid>
+      <value>number</value>
+      <webElementGuid>f0ee4a49-1ec9-405c-ba9a-e1e6cb06008c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>avgInventorySize</value>
+      <webElementGuid>eeac6aff-3616-4c48-a46c-b9ba785654fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>c9f1ceeb-6291-4242-916f-1614e1e53cb0</webElementGuid>
+      <value>w-full p-3 border rounded-md  bg-gray-50</value>
+      <webElementGuid>7a76a7a5-2e44-4e77-bd9c-2c09cf690818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>min</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>d9561afb-b12b-41fe-b854-0e0897737d0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>c00fc259-2de6-4c49-97ad-d3553a64a6f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[1]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
+      <webElementGuid>53af1257-3498-4516-9c90-1138b821f566</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>37633cf4-dfe5-4d40-9b4e-f9c1c962598c</webElementGuid>
+      <value>//input[@name='avgInventorySize']</value>
+      <webElementGuid>76e042ee-aeb2-4bcd-bb24-ff86a928b482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='kc-form-login']/div[2]/div/input</value>
-      <webElementGuid>37050004-480c-4d3a-a3db-4acf61602c35</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div/input</value>
+      <webElementGuid>046899ac-36ed-4f38-8aa2-a9adacffeea3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>201f380a-b240-4f30-9036-71d3a472c741</webElementGuid>
+      <value>//div[2]/div/div[2]/div/input</value>
+      <webElementGuid>5bf67f61-3670-4858-9f7a-71ededa0a88b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>bbfa533c-fa59-423b-a467-09a016b1dfad</webElementGuid>
+      <value>//input[@type = 'number' and @name = 'avgInventorySize']</value>
+      <webElementGuid>c8e24640-693a-448e-92ee-4707ad6de1c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

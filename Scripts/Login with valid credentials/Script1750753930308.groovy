@@ -37,3 +37,11 @@ WebUI.click(findTestObject('Object Repository/div_Logout'))
 
 WebUI.closeBrowser()
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://itemoptixv2qa.winlen.us/login')
+
+WebUI.setText(findTestObject('Object Repository/Page_itemOptix/input_Username_username'), 'C')
+
+WebUI.click(findTestObject('Object Repository/Page_itemOptix/button_Next'))
+

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input_Checkpoint Sales Channel_checkpointSa_8d8597</name>
    <tag></tag>
-   <elementGuidId>46d24fd2-75d2-4aaf-a79e-c60b961b910f</elementGuidId>
+   <elementGuidId>64306259-a3c7-40f9-9f5d-71e2e32a5975</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@name='checkpointSalesChannel']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>input[name=&quot;checkpointSalesChannel&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>input[name=&quot;checkpointSalesChannel&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e46f98b3-1a03-4120-9009-45982fe14d01</webElementGuid>
+      <webElementGuid>9ce880af-351d-40eb-9be0-22487b16618a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,62 +37,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a97ee2ad-fbb4-4402-9be9-73bf748fb514</webElementGuid>
+      <webElementGuid>f63ee251-2028-4934-ad24-9cfc53dace20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b4d44b63-671e-4127-881c-c0d31d011ab9</webElementGuid>
+      <value>checkpointSalesChannel</value>
+      <webElementGuid>b88333b3-dcae-42e2-9d40-b74673f316a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-[90%] p-3 pl-10 bg-slate-100 border border-slate-200 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>642d77b7-674d-4662-b788-e10443f1da2e</webElementGuid>
+      <value>w-full p-3 border rounded-md  bg-gray-50</value>
+      <webElementGuid>9b81637e-fd8a-49cb-8742-240080bfc784</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>dadab264-63fa-4233-9346-cf6c63ba5b5f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
+      <webElementGuid>d9508cd9-f5e6-4a64-aa82-bd32d0ac3df0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>10b3aad3-1963-45c0-899b-8827f3fd6862</webElementGuid>
+      <value>//input[@name='checkpointSalesChannel']</value>
+      <webElementGuid>cf1d255c-fed5-4f43-8826-ddd9fa91fa50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>20dada52-408d-4123-8402-d2f552d291fd</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[3]/input</value>
+      <webElementGuid>c21fef2d-5813-4e6c-a544-01b3c4234480</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>e66a45e5-0856-4159-909d-cac3f8ded226</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>08a604c5-27db-4772-9750-e1402cb29ed1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username']</value>
-      <webElementGuid>9af0dfd6-8b23-4da8-b2d1-7a5d85deefba</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'checkpointSalesChannel']</value>
+      <webElementGuid>989375da-58a4-4ab0-b6b9-bc4e00488a61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

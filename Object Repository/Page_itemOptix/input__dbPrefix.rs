@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input__dbPrefix</name>
    <tag></tag>
-   <elementGuidId>7db15bfc-4cb7-42c2-9120-ffca1fa65877</elementGuidId>
+   <elementGuidId>f83f1950-ba4d-4a12-9e91-ed78367022e1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='password']</value>
+         <value>//input[@name='dbPrefix']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#password</value>
+         <value>input[name=&quot;dbPrefix&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Password&quot;s</value>
+         <value>internal:attr=[placeholder=&quot;mongodb://127.0.0.1:27017&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,94 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3e2b905c-3cc3-4fa2-baeb-d3bf6539b8ff</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>c874ecc1-b7cf-4b53-a0c5-1e5569700fee</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>f7be1611-d83c-4d95-ac96-a5e287aa0d14</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>pf-c-form-control</value>
-      <webElementGuid>3d89984c-a369-4154-a8d0-9a31f30f84ca</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>7cc290b3-d60b-4902-a609-769bf5ce4905</webElementGuid>
+      <webElementGuid>11677153-abb7-404e-85e3-cb1c5af5ae84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>765a2690-6a5e-4d4e-a2bc-063066174e55</webElementGuid>
+      <value>text</value>
+      <webElementGuid>59932302-4d18-4c7d-88c1-af2a1285a0e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>dbPrefix</value>
+      <webElementGuid>7ebab773-d6c5-461e-87f1-b67b0a16e0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>mongodb://127.0.0.1:27017</value>
+      <webElementGuid>6cf97d3f-92eb-4369-872f-adb4438d03f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>class</name>
       <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>c9f1ceeb-6291-4242-916f-1614e1e53cb0</webElementGuid>
+      <value>w-full p-3 border rounded-md bg-gray-50 </value>
+      <webElementGuid>fbeef721-d592-4b7d-b4ba-ce071055891c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;password&quot;)</value>
-      <webElementGuid>c00fc259-2de6-4c49-97ad-d3553a64a6f0</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[9]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
+      <webElementGuid>9adf6e5d-a086-4783-8055-7b109c5963e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='password']</value>
-      <webElementGuid>37633cf4-dfe5-4d40-9b4e-f9c1c962598c</webElementGuid>
+      <value>//input[@name='dbPrefix']</value>
+      <webElementGuid>876817c6-73da-468b-a33a-b6359cd70fbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='kc-form-login']/div[2]/div/input</value>
-      <webElementGuid>37050004-480c-4d3a-a3db-4acf61602c35</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[9]/input</value>
+      <webElementGuid>b4e135bc-1cd5-4fb9-af76-bc2f6766169e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>201f380a-b240-4f30-9036-71d3a472c741</webElementGuid>
+      <value>//div[9]/input</value>
+      <webElementGuid>36688d2c-054e-424e-be46-4bc1a529994b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'password' and @name = 'password' and @type = 'password']</value>
-      <webElementGuid>bbfa533c-fa59-423b-a467-09a016b1dfad</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'dbPrefix' and @placeholder = 'mongodb://127.0.0.1:27017']</value>
+      <webElementGuid>236f5ec2-72bf-45f5-baa0-444d22bdb0d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

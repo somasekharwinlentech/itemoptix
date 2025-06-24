@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Username_username</name>
+   <name>input__organization</name>
    <tag></tag>
-   <elementGuidId>46d24fd2-75d2-4aaf-a79e-c60b961b910f</elementGuidId>
+   <elementGuidId>c49cf17c-8798-4cca-a463-46eb6dbc2e43</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <value>//input[@name='organization']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#username</value>
+         <value>input[name=&quot;organization&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>input[name=&quot;organization&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e46f98b3-1a03-4120-9009-45982fe14d01</webElementGuid>
+      <webElementGuid>80d6aa64-d79b-4d3d-88e1-ab2162f6ff8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,62 +37,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a97ee2ad-fbb4-4402-9be9-73bf748fb514</webElementGuid>
+      <webElementGuid>173342fe-5c7e-47af-9224-13c880b44268</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>name</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>b4d44b63-671e-4127-881c-c0d31d011ab9</webElementGuid>
+      <value>organization</value>
+      <webElementGuid>f7482e63-a25f-48f2-a30f-1f5b4ce3bc12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>w-[90%] p-3 pl-10 bg-slate-100 border border-slate-200 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500</value>
-      <webElementGuid>642d77b7-674d-4662-b788-e10443f1da2e</webElementGuid>
+      <value>w-full p-3 border rounded-md bg-gray-50 </value>
+      <webElementGuid>fc2e0c63-3ada-4e41-ac31-28302a506e6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>dadab264-63fa-4233-9346-cf6c63ba5b5f</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
+      <webElementGuid>f484946d-2df7-4f45-a12c-1d3c6e7433f3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>10b3aad3-1963-45c0-899b-8827f3fd6862</webElementGuid>
+      <value>//input[@name='organization']</value>
+      <webElementGuid>46a5b09e-3c89-4936-bc4f-f85afe08e166</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>20dada52-408d-4123-8402-d2f552d291fd</webElementGuid>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[3]/input</value>
+      <webElementGuid>689b9412-100d-40b1-a1f1-8addc7b6ff94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>e66a45e5-0856-4159-909d-cac3f8ded226</webElementGuid>
+      <value>//div[3]/input</value>
+      <webElementGuid>0b77e0c8-21b0-4ab5-be84-5bdd026b8689</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'username']</value>
-      <webElementGuid>9af0dfd6-8b23-4da8-b2d1-7a5d85deefba</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'organization']</value>
+      <webElementGuid>5b37bfc0-128f-4590-9e5f-8ecd1cf215ec</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
