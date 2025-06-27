@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Clear Filters_p-1.5 rounded-md hover_8f74d8</name>
+   <tag></tag>
+   <elementGuidId>1de9357f-4eb0-44cf-817c-928dc8cea854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div/div/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54211f49-9db2-4319-8a42-e824ac247216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-1.5 rounded-md hover:bg-gray-300</value>
+      <webElementGuid>c864b4df-d50f-4701-9468-3e1be9ecf55c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>2e934473-c182-496a-98ed-df209dff2e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-secondary&quot;]/div[@class=&quot;flex space-x-6 p-1&quot;]/div[@class=&quot;h-[calc(100vh-240px)] w-full&quot;]/div[@class=&quot;p-4 w-full h-full bg-background-secondary&quot;]/div[@class=&quot;flex items-center mb-4 justify-between&quot;]/div[@class=&quot;flex space-x-2&quot;]/button[@class=&quot;p-1.5 rounded-md hover:bg-gray-300&quot;]</value>
+      <webElementGuid>44dae54c-8f44-4152-9d9d-d0cae0f22067</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div/div/button[3]</value>
+      <webElementGuid>bf3fed04-3f27-4cad-97a8-1ae84bf9f834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::button[3]</value>
+      <webElementGuid>59399240-9e0c-42d0-af25-0fc6106ed229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TagItemsHistoryDetails'])[1]/following::button[4]</value>
+      <webElementGuid>45e974d2-d6a8-46d8-98c8-93dd1705762b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Card View'])[1]/preceding::button[1]</value>
+      <webElementGuid>139a72e9-80fc-48b2-93b3-e43ee0828af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[2]/preceding::button[1]</value>
+      <webElementGuid>7fb83461-c458-4953-930e-71012564597d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button[3]</value>
+      <webElementGuid>06fe4cac-7678-4fb6-9c1b-701ac71a3533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Settings']</value>
+      <webElementGuid>25a78fcc-8011-4676-a1ba-11bad7867241</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

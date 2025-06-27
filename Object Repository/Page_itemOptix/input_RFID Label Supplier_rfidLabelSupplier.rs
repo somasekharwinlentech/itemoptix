@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>79c6ddb8-9779-43c5-b887-56bc2ad4d486</webElementGuid>
+      <webElementGuid>c9df52f7-abd0-456a-a018-685f91e1af0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>67ae2960-fb7a-45de-8350-d1b710a27e82</webElementGuid>
+      <webElementGuid>ad6c0f2c-a72a-424c-8357-7d009cdcb125</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>rfidLabelSupplier</value>
-      <webElementGuid>9b261ff1-6f7e-47ed-abb9-0fcec312c684</webElementGuid>
+      <webElementGuid>45f2bc8d-a196-419e-bd9c-f3b5f4d2ff18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>65c9db16-0720-4acb-8382-7660b6ec06ef</webElementGuid>
+      <webElementGuid>f8cf1491-cc62-4aca-aa26-e600be2bdcb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>w</value>
-      <webElementGuid>d3693b69-94ed-417e-b3e1-03e9b8886695</webElementGuid>
+      <webElementGuid>e1d9d0ad-ac99-4271-85f5-67980ea66ce6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[4]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>e9e572c7-e0ae-4c67-ab8d-43600a5d43da</webElementGuid>
+      <webElementGuid>e75e5766-b8ab-4393-b0c6-b6446ecca7f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='rfidLabelSupplier']</value>
-      <webElementGuid>a1c63585-16e4-4b03-98bc-a032bd8e0112</webElementGuid>
+      <webElementGuid>3fb2a7b3-d666-4579-9a64-ebd01ae5b44f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[4]/input</value>
-      <webElementGuid>58094cde-693d-479f-a4bc-c329c9a43fa0</webElementGuid>
+      <webElementGuid>dd4c699f-3f4e-4163-8c34-f5e762f30e7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/input</value>
-      <webElementGuid>f71d3be6-5ea5-4dea-a237-0a8dd5357112</webElementGuid>
+      <webElementGuid>e035a06b-eac4-4f31-933b-7ac0cf3ac3a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'rfidLabelSupplier']</value>
-      <webElementGuid>bd8d5f50-e56e-48f4-be94-742d89e84a62</webElementGuid>
+      <webElementGuid>b15537c1-e3b9-4b63-ba6b-a858e6fafc3e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

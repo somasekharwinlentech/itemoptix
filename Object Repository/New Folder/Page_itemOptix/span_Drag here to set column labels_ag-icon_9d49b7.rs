@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Drag here to set column labels_ag-icon_9d49b7</name>
+   <tag></tag>
+   <elementGuidId>dc9da487-030a-4eb9-9a9b-d0892c5fb6c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ag-icon.ag-icon-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[2]/div/div/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div[3]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ag-header-icon > .ag-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0068141a-9faf-48b7-81f7-d346b677341e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-filter</value>
+      <webElementGuid>e5d6a99f-8162-4d93-ba80-c3c6d8c09126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>1e477fe5-14fd-41f7-8f56-dd364c3f12a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>14cf6d91-0bce-4189-ad90-f57fb4388188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;w-full&quot;]/div[2]/div[@class=&quot;overflow-hiddden&quot;]/div[@class=&quot;flex gap-8 bg-background-secondary p-6&quot;]/div[@class=&quot;flex-1 min-w-[50%] transition-all&quot;]/div[@class=&quot;rounded-lg mt-2 h-[calc(90vh-230px)] flex flex-col&quot;]/div[@class=&quot;ag-theme-alpine&quot;]/div[1]/div[@class=&quot;ag-root-wrapper ag-ltr ag-layout-normal&quot;]/div[@class=&quot;ag-root-wrapper-body ag-focus-managed ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-header ag-pivot-off ag-header-allow-overflow&quot;]/div[@class=&quot;ag-header-viewport&quot;]/div[@class=&quot;ag-header-container&quot;]/div[@class=&quot;ag-header-row ag-header-row-column&quot;]/div[@class=&quot;ag-header-cell ag-header-cell-sortable ag-focus-managed ag-header-active&quot;]/div[@class=&quot;ag-header-cell-comp-wrapper&quot;]/div[@class=&quot;ag-cell-label-container&quot;]/span[@class=&quot;ag-header-icon ag-header-cell-filter-button&quot;]/span[@class=&quot;ag-icon ag-icon-filter&quot;]</value>
+      <webElementGuid>20e9c2a4-b5a3-4eb9-b1df-ee48122f715f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[2]/div/div/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div[3]/div/span/span</value>
+      <webElementGuid>2b841a2a-9a3e-414f-ada8-bd88d0690e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>0b68198c-27cf-4cde-8472-30b846517616</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

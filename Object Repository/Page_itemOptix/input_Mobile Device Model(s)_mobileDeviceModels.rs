@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>cda78819-8fd2-4503-a0b8-287e2045a58e</webElementGuid>
+      <webElementGuid>e4cd1c4a-e958-4488-807f-e519dd54ae97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2d4a0e9c-6de4-4661-8b5b-f4d7d1b2fe55</webElementGuid>
+      <webElementGuid>f48b5e97-e361-46da-92a4-4cec0f530aaf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mobileDeviceModels</value>
-      <webElementGuid>a31a445c-28cf-4854-875b-4cef3ee8f465</webElementGuid>
+      <webElementGuid>17e1c2ec-6d28-4d32-8396-ef67721f808e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>a0db7dff-6341-44a7-b926-8b8d537206d2</webElementGuid>
+      <webElementGuid>5b933444-0893-45a9-b8e0-fc8a2b96d3ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>e.g., Zebra TC52</value>
-      <webElementGuid>90f0f4f0-9919-4578-8cd1-15c78d66de55</webElementGuid>
+      <webElementGuid>d098a0a7-06d4-43ab-bb70-8f4ca9ec2f85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[2]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>5fc24cb0-5b44-42c4-87d7-e3caeb8b9046</webElementGuid>
+      <webElementGuid>a0349b3f-b3c1-4900-a203-a599b548693e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='mobileDeviceModels']</value>
-      <webElementGuid>90acb0e8-f7c7-4e21-bbe6-9596c726fc0d</webElementGuid>
+      <webElementGuid>614b1054-1614-412e-ba7b-db951bd837f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[2]/input</value>
-      <webElementGuid>9290135f-f6cf-4b00-bb1b-b0d6ed309ccf</webElementGuid>
+      <webElementGuid>e76eb10d-6d41-4060-a702-4cf5eca5d766</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div[2]/input</value>
-      <webElementGuid>a1bececc-c83d-4fc2-95d7-55b4e69b91b5</webElementGuid>
+      <webElementGuid>d127ecae-58da-4627-8860-141660f08df1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'mobileDeviceModels' and @placeholder = 'e.g., Zebra TC52']</value>
-      <webElementGuid>78e7c5f0-75ec-4b5d-b6fc-a4a4ebde48f1</webElementGuid>
+      <webElementGuid>45ca2c77-9f0c-45f4-acb4-35484e595719</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

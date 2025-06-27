@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_l3io</name>
+   <tag></tag>
+   <elementGuidId>08296fed-336f-41bc-9832-6d55786f3cb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cell-clientId-0']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cell-clientId-0 >> internal:text=&quot;l3io&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ab724e49-9ed1-44b5-8dc4-83026a9c122e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#F1FAFF] text-[#1873BC] h-8 rounded flex items-center justify-start p-2 mt-1 cursor-pointer</value>
+      <webElementGuid>39adafa9-7504-4315-b043-7efa9948553f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>l3io</value>
+      <webElementGuid>7d827632-8f87-486b-b1f0-36a7023e897a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-clientId-0&quot;)/div[@class=&quot;bg-[#F1FAFF] text-[#1873BC] h-8 rounded flex items-center justify-start p-2 mt-1 cursor-pointer&quot;]</value>
+      <webElementGuid>aad9230b-3fde-4b70-9b4f-a3357d6539b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cell-clientId-0']/div</value>
+      <webElementGuid>e4d7d835-10eb-440d-8603-27aa3cd75e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Subscription'])[1]/following::div[25]</value>
+      <webElementGuid>91aec1b1-0f11-4ee4-b7e4-5a0f75249fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Store'])[1]/following::div[33]</value>
+      <webElementGuid>96bef2b2-54ce-4d0d-8a53-8287442be23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='l3io'])[2]/preceding::div[1]</value>
+      <webElementGuid>330dd3c1-1512-4a82-a08f-531996303610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>8e4cc593-c2d2-44ea-a743-103f718d791b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='l3io']/parent::*</value>
+      <webElementGuid>36d20aca-05f9-4826-b303-9575a680d39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>f47cbc73-1846-4e6f-b5ac-21ef27596882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'l3io' or . = 'l3io')]</value>
+      <webElementGuid>76aff5b9-f3e5-41f5-8104-4ff67566eedd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apr, 2025</name>
+   <tag></tag>
+   <elementGuidId>9f67beb0-c92b-4f6a-bef0-957ea853fd0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div/div[2]/div/div/div/span/span[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.font-medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Apr, 2025&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d86d776e-fa74-4155-8449-7ca702f255fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium</value>
+      <webElementGuid>c21d41f8-1e99-470c-ad8c-d18f4433f672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apr, 2025</value>
+      <webElementGuid>fb9cbc86-a4af-402c-beb1-7bcbac8340d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-secondary&quot;]/div[@class=&quot;flex space-x-6 p-1&quot;]/div[@class=&quot;bg-background-secondary pl-3&quot;]/div[@class=&quot;mt-5 rounded-lg shadow-sm border border-gray-200&quot;]/div[@class=&quot;ag-theme-alpine&quot;]/div[1]/div[@class=&quot;ag-root-wrapper ag-ltr ag-layout-normal&quot;]/div[@class=&quot;ag-root-wrapper-body ag-focus-managed ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-row-animation ag-layout-normal ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row ag-row-level-0 ag-row-group ag-row-position-absolute ag-row-first ag-row-not-inline-editing ag-row-hover ag-row-focus ag-row-group-contracted ag-row-last&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-column-first ag-cell-value ag-cell-focus&quot;]/span[@class=&quot;ag-cell-wrapper ag-cell-expandable ag-row-group ag-row-group-indent-0&quot;]/span[@class=&quot;ag-group-value&quot;]/span[@class=&quot;font-medium&quot;]</value>
+      <webElementGuid>e12d3400-a1d0-4d32-946c-4caaa68b3b12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div/div[2]/div/div/div/span/span[4]/span</value>
+      <webElementGuid>89dda95e-f5e7-4a02-af26-36a745f4268f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items Tagged'])[1]/following::span[20]</value>
+      <webElementGuid>bbe5347b-33cb-41cb-9e0a-b7a045d52c83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::span[33]</value>
+      <webElementGuid>d723bc76-800b-46ea-bfcd-467ec05a65a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/preceding::span[4]</value>
+      <webElementGuid>a43bfcae-b453-456a-bf9c-905cba1a5300</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[1]/preceding::span[6]</value>
+      <webElementGuid>84c348c1-3068-416f-bf37-63939b211536</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apr, 2025']/parent::*</value>
+      <webElementGuid>20c8a2b6-7b3e-4e61-8107-63e7d4f81313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/span/span[4]/span</value>
+      <webElementGuid>a9f648ed-9cbf-4953-a4eb-34a2da7e4d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Apr, 2025' or . = 'Apr, 2025')]</value>
+      <webElementGuid>e371374c-23b1-4dff-8839-fbdc280e3f66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9b9e8695-fea6-4be3-8a41-f43b455e0da3</webElementGuid>
+      <webElementGuid>8577c51d-4262-46bc-9072-8cafcb36b570</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>5940ab28-3ac9-41e2-acab-3478005b8de5</webElementGuid>
+      <webElementGuid>cab2b5df-f7a3-4f19-a086-fb25b37e31ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>gdprCompliant</value>
-      <webElementGuid>5c7fe2e6-1980-4914-81ed-af1f5f06ec76</webElementGuid>
+      <webElementGuid>63c29c7d-7fd4-4896-aac0-dd5d52026dad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox h-5 w-5 text-blue-600 </value>
-      <webElementGuid>cfee21cc-b27e-4764-a7f1-6e2bcbaca7c7</webElementGuid>
+      <webElementGuid>35f1356e-4a94-4ae3-9a40-57f4dd5ae674</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/label[@class=&quot;inline-flex items-center&quot;]/input[@class=&quot;form-checkbox h-5 w-5 text-blue-600&quot;]</value>
-      <webElementGuid>3d682636-4bcf-4c12-b983-7709b3515f3f</webElementGuid>
+      <webElementGuid>b30b2005-f2d9-4476-b2b0-22a30b824f9b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='gdprCompliant']</value>
-      <webElementGuid>7bd2c538-9e20-425c-8991-b6fe78feb3bc</webElementGuid>
+      <webElementGuid>e86c6174-eca7-44ce-bd90-170341011a01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[3]/label[2]/input</value>
-      <webElementGuid>4ae3a10b-1a31-4bc9-8ffa-6d59a9042e1c</webElementGuid>
+      <webElementGuid>3b2b47f7-cc34-496b-ab84-2d9c2b927bbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label[2]/input</value>
-      <webElementGuid>63653456-7c1c-454f-91a5-7e5e1f7dd4e6</webElementGuid>
+      <webElementGuid>b4742b05-9f9e-4f25-a5d1-1e276339263e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'gdprCompliant']</value>
-      <webElementGuid>99cbee70-b9f4-4d66-8b37-9f7920f053b0</webElementGuid>
+      <webElementGuid>8364c776-eba8-4d11-a900-5467ec2c0eea</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

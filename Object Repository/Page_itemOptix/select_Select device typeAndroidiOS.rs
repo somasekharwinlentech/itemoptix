@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>484b11a8-2ef6-4a14-ae28-1afce6afdbf2</webElementGuid>
+      <webElementGuid>5f48c639-7e74-4810-b9a1-ccfd9997283f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>mobileDeviceType</value>
-      <webElementGuid>03b01a98-32ca-4e8b-a813-ef2b350c5f59</webElementGuid>
+      <webElementGuid>22e90421-c5a1-420e-931b-5a7323dd20b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>983a7188-ac7f-4a16-884b-2db54941920e</webElementGuid>
+      <webElementGuid>f96c6745-7f81-4448-8745-4f656e06826a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select device typeAndroidiOS</value>
-      <webElementGuid>9128ae76-b6a5-41eb-a27f-652fd4340403</webElementGuid>
+      <webElementGuid>73980a26-4020-419c-9b58-b295f619a254</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[2]/select[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>4db6d47c-0193-4240-b690-811c9869a60f</webElementGuid>
+      <webElementGuid>98816ad7-bc81-4919-a283-bac888f8d801</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='mobileDeviceType']</value>
-      <webElementGuid>168139aa-c6ff-4d62-9547-6df5e45118d1</webElementGuid>
+      <webElementGuid>64e787f3-28ef-44e6-a7ed-0559298705a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/select</value>
-      <webElementGuid>fd2ac875-e9b2-4c0f-b176-4ddf7f2df8a3</webElementGuid>
+      <webElementGuid>d5480436-2482-49aa-8ede-c4deec45f91a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Device Type'])[1]/following::select[1]</value>
-      <webElementGuid>a10c4ae7-4c9d-40de-b92e-2f17eb07fb49</webElementGuid>
+      <webElementGuid>02edd028-ca07-46a4-b08a-4f05fb5fae1b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Store Count'])[1]/following::select[1]</value>
-      <webElementGuid>5c8d3723-572a-443c-a8f0-5f329d8bef0a</webElementGuid>
+      <webElementGuid>b326454c-0835-48c5-803f-2235a1e74bfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RFID Handheld Model(s)'])[1]/preceding::select[1]</value>
-      <webElementGuid>9514b858-e055-4684-8bc7-34f2458eb4da</webElementGuid>
+      <webElementGuid>69f86d68-e4df-4dfd-b2bc-98c72051a19f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>9bab3c77-34cf-431e-8066-692db63fa71e</webElementGuid>
+      <webElementGuid>cf6a8a6a-eb27-4e27-8822-4c480914ceb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'mobileDeviceType' and (text() = 'Select device typeAndroidiOS' or . = 'Select device typeAndroidiOS')]</value>
-      <webElementGuid>78226d9d-dcf2-4aaf-b015-1ab640ad6f43</webElementGuid>
+      <webElementGuid>4ddf62cd-3e1b-4d97-99d9-6195f424f681</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

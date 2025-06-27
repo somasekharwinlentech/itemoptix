@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_All LocationsReceiving_Area_510_1510_e5b529</name>
+   <tag></tag>
+   <elementGuidId>d8a35536-a06c-41d1-bd56-5cbe8421073a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div[3]/div[2]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>ca18c801-673f-4e41-ac23-adec037d7129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appearance-none w-44 h-9 text-left ps-5 bg-background-primary border-2 border-[#008B8B] rounded-[10px] text-text-primary text-sm focus:outline-none focus:ring-2 focus:ring-[#008B8B] focus:ring-opacity-50 cursor-pointer pr-5 </value>
+      <webElementGuid>d751f3c2-f61b-4c44-81cb-e0e17793e818</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All LocationsReceiving_Area_510_1510_Assembly</value>
+      <webElementGuid>115e5112-1749-4f71-9317-218599584910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-primary flex flex-col md:flex-row items-start gap-2&quot;]/div[@class=&quot;flex flex-col gap-4 pr-6&quot;]/div[@class=&quot;flex flex-col gap-1 relative&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/select[@class=&quot;appearance-none w-44 h-9 text-left ps-5 bg-background-primary border-2 border-[#008B8B] rounded-[10px] text-text-primary text-sm focus:outline-none focus:ring-2 focus:ring-[#008B8B] focus:ring-opacity-50 cursor-pointer pr-5&quot;]</value>
+      <webElementGuid>b0012736-3d97-4e9a-a8ef-702544e5c4fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div[3]/div[2]/div/div/select</value>
+      <webElementGuid>57dc6fa9-0418-4c55-94e0-ac4a34f5c229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::select[1]</value>
+      <webElementGuid>255eae6f-9404-4035-b5b8-c0024c2aefe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 90 days'])[1]/following::select[1]</value>
+      <webElementGuid>12086c94-5402-4753-9654-7fa78c3a0cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click on a line to view details'])[1]/preceding::select[1]</value>
+      <webElementGuid>9d8ad86b-c332-429f-a5cc-4616003ec34c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::select[1]</value>
+      <webElementGuid>838b6522-a34e-40f8-9fbb-440a5b73f6e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>80a2a53c-b4ab-4810-93e5-5d8f5bcf7d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'All LocationsReceiving_Area_510_1510_Assembly' or . = 'All LocationsReceiving_Area_510_1510_Assembly')]</value>
+      <webElementGuid>ade54a12-dd52-4efd-9880-0c792bd92565</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

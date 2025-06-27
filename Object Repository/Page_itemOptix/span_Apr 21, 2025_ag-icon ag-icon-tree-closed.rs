@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Apr 21, 2025_ag-icon ag-icon-tree-closed</name>
+   <tag></tag>
+   <elementGuidId>ffc1d72d-a72a-4cb7-801b-87ab74529060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div/div[2]/div/div[5]/div/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-cell.ag-cell-not-inline-editing.ag-cell-normal-height.ag-column-first.ag-cell-value.ag-cell-focus > span.ag-cell-wrapper.ag-cell-expandable.ag-row-group.ag-row-group-indent-1 > span.ag-group-contracted > span.ag-icon.ag-icon-tree-closed</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(5) > div > .ag-cell-wrapper > .ag-group-contracted > .ag-icon</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a41b089d-e175-4597-8094-090976a5678c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-icon ag-icon-tree-closed</value>
+      <webElementGuid>35072da0-b485-4005-94bb-81f7ebb045c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>b9bf1a62-4649-4cca-86e2-406033b9e045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>e788e5a9-251d-4553-84c2-f61dcf25bbcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-secondary&quot;]/div[@class=&quot;flex space-x-6 p-1&quot;]/div[@class=&quot;bg-background-secondary pl-3&quot;]/div[@class=&quot;mt-5 rounded-lg shadow-sm border border-gray-200&quot;]/div[@class=&quot;ag-theme-alpine&quot;]/div[1]/div[@class=&quot;ag-root-wrapper ag-ltr ag-layout-normal&quot;]/div[@class=&quot;ag-root-wrapper-body ag-focus-managed ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-row-animation ag-layout-normal ag-has-focus&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]/div[@class=&quot;ag-center-cols-container&quot;]/div[@class=&quot;ag-row-even ag-row ag-row-level-1 ag-row-group ag-row-group-contracted ag-row-position-absolute ag-row-last ag-row-not-inline-editing ag-row-hover ag-row-focus&quot;]/div[@class=&quot;ag-cell ag-cell-not-inline-editing ag-cell-normal-height ag-column-first ag-cell-value ag-cell-focus&quot;]/span[@class=&quot;ag-cell-wrapper ag-cell-expandable ag-row-group ag-row-group-indent-1&quot;]/span[@class=&quot;ag-group-contracted&quot;]/span[@class=&quot;ag-icon ag-icon-tree-closed&quot;]</value>
+      <webElementGuid>2f3eb956-31fc-44ae-aedf-9ca96ef4cbe9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div/div[2]/div/div[5]/div/span/span[2]/span</value>
+      <webElementGuid>d675ca4b-1750-4365-981d-ccd00e4f6a6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/span/span[2]/span</value>
+      <webElementGuid>8bb70825-e6b9-461a-aa78-cffd3358cc1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

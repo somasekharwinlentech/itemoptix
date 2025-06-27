@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>84e8a490-c1c1-424d-b251-f7ea509d10ea</webElementGuid>
+      <webElementGuid>549b6fe3-d122-4d35-9caa-27c8b2cf0020</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a7ef560b-d9e2-4daf-bb1b-6a67ea5c8c1a</webElementGuid>
+      <webElementGuid>54d03fb6-b2c2-4a97-941d-ff0bd14150ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>dbAuthSource</value>
-      <webElementGuid>ad57d35e-d7be-4d86-9816-634352dd9df0</webElementGuid>
+      <webElementGuid>e0ff7902-8d02-4732-ba7b-fc9d9f724832</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>?authSource=admin</value>
-      <webElementGuid>4581f78b-f210-4f8c-be87-546a9da7362a</webElementGuid>
+      <webElementGuid>f3df776e-5103-4f51-8e53-0e1411431b77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>9b60cf35-16cf-4a63-9c48-d0e836ab08b3</webElementGuid>
+      <webElementGuid>25a43bad-70f3-45ed-b413-b74dfb15a01e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[10]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>6d279ea1-fc90-4632-a206-d89b2afaa559</webElementGuid>
+      <webElementGuid>be21e0a4-042b-4053-9750-7f4238367320</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='dbAuthSource']</value>
-      <webElementGuid>5375508d-8a99-4ac8-a759-110052f6ca34</webElementGuid>
+      <webElementGuid>b4066a98-37e9-4994-a397-ac9096b924db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[10]/input</value>
-      <webElementGuid>3da01c0d-c28f-4be1-8d1c-7da97c38cc4d</webElementGuid>
+      <webElementGuid>344a407f-713b-4944-897b-4530d04492ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[10]/input</value>
-      <webElementGuid>a761524f-9110-4206-8f25-b2b3b91722fb</webElementGuid>
+      <webElementGuid>e42af38a-ad75-48db-a6c9-50a15f89558b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'dbAuthSource' and @placeholder = '?authSource=admin']</value>
-      <webElementGuid>d58220a1-ff51-4515-a051-2bc20b2fccdc</webElementGuid>
+      <webElementGuid>f0cb9c6d-ea66-4c64-b640-12fa569674c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

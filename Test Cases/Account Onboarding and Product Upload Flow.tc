@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Account Onboarding and Product Upload Flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c97f7911-f41c-4908-96f0-564bdfd2418a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Store_Inventory_TaggingReport</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37608995-1092-4d0a-beb6-eecb336159dd</testCaseGuid>
+</TestCaseEntity>

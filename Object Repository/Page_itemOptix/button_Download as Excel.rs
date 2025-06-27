@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Download as Excel</name>
+   <tag></tag>
+   <elementGuidId>fc7dfad3-8e02-4515-ad6b-b8fafe4292f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div/div/div/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Download as Excel&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>50bd06fe-e176-49c1-abe7-3c2e173d6868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-background-secondary flex items-center</value>
+      <webElementGuid>cbfe07cb-d3c5-44f1-bd44-4f799c16b772</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download as Excel</value>
+      <webElementGuid>c624e082-c21d-4971-bcb7-631eb7903189</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-secondary&quot;]/div[@class=&quot;flex space-x-6 p-1&quot;]/div[@class=&quot;h-[calc(100vh-240px)] w-full&quot;]/div[@class=&quot;p-4 w-full h-full bg-background-secondary&quot;]/div[@class=&quot;flex items-center mb-4 justify-between&quot;]/div[@class=&quot;flex space-x-2&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute right-0 mt-2 w-48 rounded-md shadow-lg bg-background-primary ring-1 ring-black ring-opacity-5 z-50&quot;]/div[@class=&quot;py-1&quot;]/button[@class=&quot;w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-background-secondary flex items-center&quot;]</value>
+      <webElementGuid>2d5d8591-a3e8-4b3e-8b76-cc04104ceeca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div/div/div/div/div/button[2]</value>
+      <webElementGuid>bd15461e-34e7-4935-8ec8-4aaab1b68a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download as CSV'])[1]/following::button[1]</value>
+      <webElementGuid>65c7097d-61eb-4af1-8e84-e1cb1fa2cc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/following::button[4]</value>
+      <webElementGuid>83418f58-ebce-43e6-a48c-6f3d15c79ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Card View'])[1]/preceding::button[2]</value>
+      <webElementGuid>a3f676bb-cdb7-4a4c-8e84-569c60747adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[2]/preceding::button[2]</value>
+      <webElementGuid>41066eb6-730d-46d9-a447-0038e9771eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download as Excel']/parent::*</value>
+      <webElementGuid>f10928a0-fa7f-4ed8-96f6-a1055b63ef04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/button[2]</value>
+      <webElementGuid>e25b1e34-d0ee-49f6-aaf0-c11702b157ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Download as Excel' or . = 'Download as Excel')]</value>
+      <webElementGuid>e3ab43de-6fdc-47d8-9867-89e8174cf264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div/div/div/div/div/button[2]</value>
+      <webElementGuid>df66208a-ccf0-488c-8eeb-94086e84d980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::button[2]</value>
+      <webElementGuid>0a08938a-685f-4138-b178-516dbc614682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set column labels'])[1]/preceding::button[2]</value>
+      <webElementGuid>23c63e3e-de2a-4739-95b6-f1b9b22dbe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/button[2]</value>
+      <webElementGuid>dea918a8-3781-450c-8435-7421e5b434f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

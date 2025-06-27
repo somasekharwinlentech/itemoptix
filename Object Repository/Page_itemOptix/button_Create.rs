@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[2]/button</value>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div[3]/button[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i]</value>
+         <value>internal:role=button[name=&quot;Create&quot;s]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,16 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6e771cce-e733-419a-8d03-e5caffd85e13</webElementGuid>
+      <webElementGuid>d3f5882f-1db7-40b5-b6d1-ab28b62a9eb7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-4 py-2 rounded-xl text-sm font-normal bg-teal-600 text-text-white hover:bg-teal-700
-                                }</value>
-      <webElementGuid>f0dc3840-9471-4336-97b6-2fe6e3e41756</webElementGuid>
+      <value>px-4 py-2 rounded-md font-medium bg-teal-600 text-white</value>
+      <webElementGuid>f54802b5-0cdc-4474-8661-76b17d99b014</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,56 +45,55 @@
       <name>text</name>
       <type>Main</type>
       <value>Create</value>
-      <webElementGuid>f995a199-d8db-4a90-bb6f-5c8ecc4266ca</webElementGuid>
+      <webElementGuid>3833f481-a6fa-4e75-9087-2f1e38b51e8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;bg-background-primary flex flex-col h-[calc(100vh-100px)] flex flex-col w-[95%] p-5 mt-5 mb-10&quot;]/div[@class=&quot;bg-background-primary flex justify-between items-center&quot;]/div[@class=&quot;flex space-x-3&quot;]/button[@class=&quot;px-4 py-2 rounded-xl text-sm font-normal bg-teal-600 text-text-white hover:bg-teal-700
-                                }&quot;]</value>
-      <webElementGuid>fa541537-a980-4b64-8283-fe21b5b4860e</webElementGuid>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;max-w-full bg-background-primary font-roboto&quot;]/div[@class=&quot;flex justify-between items-center px-5 py-8&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50  flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white rounded-md shadow-lg w-full max-w-4xl&quot;]/div[@class=&quot;flex justify-end space-x-2 p-4 border-t&quot;]/button[@class=&quot;px-4 py-2 rounded-md font-medium bg-teal-600 text-white&quot;]</value>
+      <webElementGuid>225af9b5-57c7-4c5a-9b27-f32a182693fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[2]/button</value>
-      <webElementGuid>0c0a4b47-5df3-48eb-a952-aad17c055e47</webElementGuid>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div[3]/button[2]</value>
+      <webElementGuid>3b88708f-ac16-43bb-a485-edfe62e21baf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click on Account Name to access the Reports'])[1]/following::button[1]</value>
-      <webElementGuid>db492996-076f-4254-b337-eb4be6775a49</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[1]</value>
+      <webElementGuid>809192c6-fd69-4378-80e9-b58d1e2cb702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have access to the following Accounts..'])[1]/following::button[1]</value>
-      <webElementGuid>5e1bee7d-f212-4d0f-beef-9af5857cfb62</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IO_FARM_510'])[1]/following::button[2]</value>
+      <webElementGuid>71c62ee8-60a5-4bb4-aa4d-d5b6052fd08e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/preceding::button[1]</value>
-      <webElementGuid>b3e4c2a8-65b0-4412-8c8c-d3aa31d9df70</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>b9936876-6937-4799-a30f-cf93c2cbfe4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::button[4]</value>
-      <webElementGuid>fbf08a05-a8b6-48b7-802d-9cb9d6d3be22</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tasks Start Today'])[1]/preceding::button[2]</value>
+      <webElementGuid>a5a9be90-a198-4080-bb39-e2ef6e1c1bf4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,15 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create']/parent::*</value>
-      <webElementGuid>bd8dbd64-9dc9-468e-b9d1-474a60abfcad</webElementGuid>
+      <webElementGuid>f6f46f76-5e14-4038-8894-ccc44c1ada17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>94894f3a-b450-41b4-9f03-aac3e4705074</webElementGuid>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>942b8a22-6c0b-464b-90f0-1cc115457b57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +117,102 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>9c85a24b-0d4c-4bec-8008-27fd90980459</webElementGuid>
+      <webElementGuid>bfa21128-f6f8-40b0-9124-a07a66027b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>7365a984-091d-46e4-8f80-a20b75f01a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click on Account Name to access the Reports'])[1]/following::button[1]</value>
+      <webElementGuid>96884fb7-2d34-405d-8f07-567cfe47fc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have access to the following Accounts..'])[1]/following::button[1]</value>
+      <webElementGuid>4fa0d7ec-cf4b-4a8b-8807-ffbc89a71ba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/preceding::button[1]</value>
+      <webElementGuid>6389be98-4ec8-423e-a808-369c65f72774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag here to set row groups'])[1]/preceding::button[4]</value>
+      <webElementGuid>cca807b9-c66b-47fb-a4fd-39d522c9c02e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/button</value>
+      <webElementGuid>413965a4-b078-4908-941c-13f8d2fafc39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div/div/div/button</value>
+      <webElementGuid>7c591604-9841-413d-8469-fe0345d26895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::button[1]</value>
+      <webElementGuid>dd51c8d8-d627-4c6a-8b4f-eff3b0c7c015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Uploads'])[1]/following::button[2]</value>
+      <webElementGuid>0782d4be-6cfb-4db0-9f16-08104464f2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::button[1]</value>
+      <webElementGuid>53d14b8f-4ff9-46c4-be63-9740c5008516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::button[2]</value>
+      <webElementGuid>04989c52-c458-41db-9290-a3967bff9699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button</value>
+      <webElementGuid>8982775e-2d5f-40cf-bc9b-cd405c6a57e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

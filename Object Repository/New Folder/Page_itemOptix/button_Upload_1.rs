@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload_1</name>
+   <tag></tag>
+   <elementGuidId>c84c1773-5278-4e09-9033-dbc059e6c968</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[3]/div/div[2]/div[3]/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Upload&quot;i] >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>88097a37-5aa5-437d-948c-d7dff60b2b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 rounded text-sm font-medium transition-colors duration-200 text-white bg-teal-600 hover:bg-teal-700</value>
+      <webElementGuid>561909c9-f0d0-413a-99ac-ad84e7fc9b06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload</value>
+      <webElementGuid>c62d195e-3dfb-4689-8597-e4fee86f805b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;w-full&quot;]/div[2]/div[@class=&quot;max-w-full bg-background-primary&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50&quot;]/div[@class=&quot;bg-white rounded-lg w-full max-w-md&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;flex justify-end space-x-4 mt-6&quot;]/button[@class=&quot;px-4 py-2 rounded text-sm font-medium transition-colors duration-200 text-white bg-teal-600 hover:bg-teal-700&quot;]</value>
+      <webElementGuid>e3bf4cbe-f982-48d9-8f22-b0744eb6a34d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[3]/div/div[2]/div[3]/button[2]</value>
+      <webElementGuid>47f0d0d6-40a1-4a3d-987d-8a85bdb73d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>4a796c9f-3218-4b48-b3d7-8c50e01a15e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USER_TEMPLATE (7).xlsx'])[1]/following::button[2]</value>
+      <webElementGuid>53d3cd87-9ed4-4a1f-9bfb-abf9648b78b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button[2]</value>
+      <webElementGuid>86834369-8cb5-4e82-8922-d27110cd64d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Upload' or . = 'Upload')]</value>
+      <webElementGuid>1d33dba0-a03d-476d-bfb4-5212e84dd30d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

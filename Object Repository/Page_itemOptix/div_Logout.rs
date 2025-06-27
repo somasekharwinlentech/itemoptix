@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div</value>
+         <value>//div[@id='root']/div[2]/div/div[4]/div[2]/div[2]/div[4]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>913f4ad5-a276-412c-9463-148e61256754</webElementGuid>
+      <webElementGuid>0f0e0168-f98f-43d0-8cce-d86df09839c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-4 py-2 cursor-pointer hover:bg-teal-50 text-md font-normal text-red-600 flex items-center</value>
-      <webElementGuid>74fe4861-6e24-47b3-9889-696187b92fe7</webElementGuid>
+      <webElementGuid>f7961085-bcdb-4b12-9088-6ca77df3437c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Logout</value>
-      <webElementGuid>41d9257e-8e57-451c-a37e-d101be6de7e6</webElementGuid>
+      <webElementGuid>7ed1fa9d-2d12-4049-b760-a9c00dd795c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;sticky z-50 top-0 w-full bg-[#008b8b] text-text-white font-semibold&quot;]/div[@class=&quot;flex items-center justify-between px-6 min-h-[60px]&quot;]/div[@class=&quot;relative flex items-center justify-between gap-1 ml-[20px] space-x-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute right-0 mt-2 w-60 bg-white text-teal-600 rounded shadow-lg&quot;]/div[@class=&quot;border-t border-gray-100&quot;]/div[@class=&quot;px-4 py-2 cursor-pointer hover:bg-teal-50 text-md font-normal text-red-600 flex items-center&quot;]</value>
-      <webElementGuid>53697afa-9193-4535-8330-c61d3c676e5c</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky z-50 top-0 w-full bg-[#008b8b] text-text-white font-semibold&quot;]/div[@class=&quot;flex items-center justify-between px-6 min-h-[60px]&quot;]/div[@class=&quot;relative flex items-center justify-between gap-1 ml-[20px] space-x-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute right-0 mt-2 w-60 bg-white text-teal-600 rounded shadow-lg&quot;]/div[@class=&quot;border-t border-gray-100&quot;]/div[@class=&quot;px-4 py-2 cursor-pointer hover:bg-teal-50 text-md font-normal text-red-600 flex items-center&quot;]</value>
+      <webElementGuid>db9a4980-31b8-49b4-b65c-46ae98f2a51f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div</value>
-      <webElementGuid>370ed7de-6cf5-4c9b-9e37-209b3e63864b</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/div[4]/div[2]/div[2]/div[4]/div</value>
+      <webElementGuid>443e5aec-f1ee-4890-9910-fde35394947a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/following::div[2]</value>
-      <webElementGuid>0315ddcd-a22b-4843-9999-239c4be2a711</webElementGuid>
+      <webElementGuid>055d9fce-6adb-418f-99d9-ecd37ed1976b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[3]</value>
-      <webElementGuid>3c33ab37-ef03-497b-85dd-0a4df28c9f66</webElementGuid>
+      <webElementGuid>fdfafdc0-de4e-484a-8a66-9f78b410d303</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::div[1]</value>
-      <webElementGuid>0cee097f-36cb-4053-8d26-4041f707a8eb</webElementGuid>
+      <webElementGuid>a3c9fabb-7295-4d45-bab0-8c131dcf73e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagging History'])[1]/preceding::div[3]</value>
+      <webElementGuid>39a23889-e958-4018-95ab-bf4405621664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,15 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Logout']/parent::*</value>
-      <webElementGuid>ff4f6102-8550-440a-9247-bd73ab347269</webElementGuid>
+      <webElementGuid>d970eaae-f2a2-47ad-8bfd-b626755bef62</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div</value>
-      <webElementGuid>0ab8c556-0793-418e-9ecc-1fa3868b8e6a</webElementGuid>
+      <value>//div[2]/div[4]/div</value>
+      <webElementGuid>2da5ab89-ee9d-4b9e-8990-63249a172831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +117,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Logout' or . = 'Logout')]</value>
-      <webElementGuid>b303b06b-fe02-4d6c-ac08-e2301a4c729f</webElementGuid>
+      <webElementGuid>cdf5bf85-ddca-4c3e-b194-19a171874f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div[2]/div[4]/div</value>
+      <webElementGuid>4b245729-417d-4e2f-ad72-ede5c32d5fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Details'])[1]/preceding::div[3]</value>
+      <webElementGuid>b8939090-0737-49fa-9709-ad41a97202a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>1dc603c4-3eda-4f8a-b266-b921b2e735df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

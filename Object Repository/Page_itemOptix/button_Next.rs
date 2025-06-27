@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>7a192e0b-8909-4f17-bdbf-683b148ee5ed</webElementGuid>
+      <webElementGuid>fe3fa736-a7de-4b2f-82d7-50cc31788ccb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-[90%] py-3 rounded-lg text-md font-thin transition-colors bg-teal-600 text-white hover:bg-teal-700</value>
-      <webElementGuid>076ecd0a-1b7e-497a-b358-e0ae3a903099</webElementGuid>
+      <webElementGuid>37ff3103-c47b-4f0d-8865-df5c09dd180e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next</value>
-      <webElementGuid>68dd01b3-cf45-4f33-a362-2a819e1a7594</webElementGuid>
+      <webElementGuid>9004eafa-0b92-4d13-a19b-db7f2261ced4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;flex h-screen bg-white&quot;]/div[@class=&quot;w-1/2 flex flex-col justify-center items-center p-20&quot;]/div[@class=&quot;w-full max-w-md text-center&quot;]/button[@class=&quot;w-[90%] py-3 rounded-lg text-md font-thin transition-colors bg-teal-600 text-white hover:bg-teal-700&quot;]</value>
-      <webElementGuid>1443b7e5-9b2a-497d-972f-3535afc4cc09</webElementGuid>
+      <webElementGuid>f616ffb7-77f2-4722-b260-258a612ffbc0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/div[2]/div/button</value>
-      <webElementGuid>7f55b38f-be0b-4614-b452-bd0927e5f054</webElementGuid>
+      <webElementGuid>1a2e7408-7482-4aea-a779-c9e6f3149651</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>b5a07c67-65d6-43f4-93d9-dccf410f70ff</webElementGuid>
+      <webElementGuid>be3ec19d-a144-4d18-ac91-0916fa69c0da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::button[1]</value>
-      <webElementGuid>8b1f219e-7844-4fc3-b6c9-a81f2eade6f8</webElementGuid>
+      <webElementGuid>c9715b0f-0d44-407d-a533-071183a5e0f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Language?'])[1]/preceding::button[1]</value>
-      <webElementGuid>55c77107-a415-4a64-8a54-9417772108f3</webElementGuid>
+      <webElementGuid>37de9d96-388b-429a-bb7b-8bbeda56cad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
-      <webElementGuid>de877077-4311-4ae3-b1e2-a19cb487044a</webElementGuid>
+      <webElementGuid>ad94d978-84a3-4efd-9efc-96111285f4fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>9d682dbb-90c5-4931-b5df-d68796f08366</webElementGuid>
+      <webElementGuid>ba64c07d-6107-4236-8f74-403c92017d64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>37886b46-fede-4abe-8409-309adce1a248</webElementGuid>
+      <webElementGuid>b7f8d82f-34eb-493b-97df-8f82bdf9be50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

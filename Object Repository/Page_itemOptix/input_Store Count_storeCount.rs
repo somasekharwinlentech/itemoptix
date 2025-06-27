@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1b802e19-3efb-48a2-9f51-98fe5c956c30</webElementGuid>
+      <webElementGuid>7d544b3d-7d49-45c4-a69e-b4fa6a106483</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>82d19a94-106f-446e-a839-171649961c24</webElementGuid>
+      <webElementGuid>9dd0f2e3-c6cd-4df7-9638-8198683ed395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>storeCount</value>
-      <webElementGuid>227e2e55-1a06-4619-8c7b-cc84bb7d7c52</webElementGuid>
+      <webElementGuid>569c4b04-1b06-4f4c-8d96-7051c9e4b7e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>ece84052-140e-448c-83f9-8f1c15be7412</webElementGuid>
+      <webElementGuid>08038ca5-c371-4d84-980b-cc6149d02eeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>min</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>661968b9-0582-4852-abeb-40b6ca7a223a</webElementGuid>
+      <webElementGuid>66f56e16-dbdd-4492-95fc-d79ed0f57b5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[1]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>9a1b9d68-55d5-4471-9255-eb2bc2b4179a</webElementGuid>
+      <webElementGuid>32aee5c8-ee5f-418e-aa9c-68dc0a401b53</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='storeCount']</value>
-      <webElementGuid>0cee79a5-1059-4360-aca7-5fdcc1538434</webElementGuid>
+      <webElementGuid>eaac4d8b-1da9-428b-9641-9cc4ac19e29b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>9e5572a0-dde0-4da5-9863-5f941463c79b</webElementGuid>
+      <webElementGuid>8c24830f-98cd-413a-bb54-d54d29137155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>05fa4eab-f669-455c-84bf-237b2f26de9e</webElementGuid>
+      <webElementGuid>747e4b82-abec-4d90-95e4-e14f770d772d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'storeCount']</value>
-      <webElementGuid>b9159938-8605-4325-a345-a51a17583389</webElementGuid>
+      <webElementGuid>38f398e5-82b5-4c04-a9b9-a338fac88055</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

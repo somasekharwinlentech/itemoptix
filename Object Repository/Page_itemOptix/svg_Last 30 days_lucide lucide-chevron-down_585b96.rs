@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Last 30 days_lucide lucide-chevron-down_585b96</name>
+   <tag></tag>
+   <elementGuidId>6717d719-bd80-4edc-a595-97e806cf0232</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 days'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.lucide.lucide-chevron-down.w-5.h-5.text-primary.flex-shrink-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Last 30 days&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2360f812-2b92-4fd1-b904-99a18c167e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a1d16f87-16a0-4d6f-adcd-2558c76b299c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>3a21e022-9cda-492a-a883-3eb9e90dafb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>a3874d18-9e07-4c16-a824-e0db039d8c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>26c110c5-1d3d-48f5-9382-879a4f54b66d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>92654ddb-a8a6-443b-be66-f8a8464e9a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>0f860fd2-ec79-467a-8340-218ad09111c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>36c1fba6-4061-4368-a407-2216b70b6f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linecap</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>1cb879f7-1145-4e48-b635-2b234474a64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-linejoin</name>
+      <type>Main</type>
+      <value>round</value>
+      <webElementGuid>65dbd9af-97a4-44b8-808c-82360caa92e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lucide lucide-chevron-down w-5 h-5 text-primary flex-shrink-0</value>
+      <webElementGuid>dce468c0-efef-4dc9-9894-3a914a8be621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;overflow-hidden flex flex-col&quot;]/div[@class=&quot;bg-background-primary w-full&quot;]/div[@class=&quot;flex justify-between px-3 py-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;min-w-fit&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/button[@class=&quot;h-9 flex items-center justify-between px-3 
+                     text-sm border-2 border-primary rounded-[10px] bg-background-primary hover:bg-background-disabled 
+                     focus:outline-none focus:ring-1 focus:ring-primary min-w-[160px] pr-2&quot;]/svg[@class=&quot;lucide lucide-chevron-down w-5 h-5 text-primary flex-shrink-0&quot;]</value>
+      <webElementGuid>b14ebc53-9ae1-4d02-8f3a-996c2ab4a20a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 days'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>de10878c-a3c8-4217-8e1a-1a1fe241eb26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DateRange'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>114b89b5-26e8-44f2-9646-80014a1b64e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 29 2025-Jun 27 2025'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>273c5d81-4432-4fa1-84e1-f6e76b75109a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Pending Tasks'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a9b3fe52-53d6-4588-af81-1dfbe432e983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Status_absolute w-4 h-4 border-2 border_7e5390</name>
+   <tag></tag>
+   <elementGuidId>6791ae64-8e59-4ad4-94d8-03b8e096e17b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div[3]/div[6]/label/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.absolute.w-4.h-4.border-2.border-teal-600.bg-background-primary.rounded-full.transition-transform.transform.top-1.left-1.translate-x-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=/^Accuracy$/ >> div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>307263c5-d3b6-4d94-8554-1115419be263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute w-4 h-4 border-2 border-teal-600 bg-background-primary rounded-full transition-transform transform top-1 left-1 translate-x-0</value>
+      <webElementGuid>79fde6dc-72df-467a-a44f-3e23236caec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;w-full bg-background-secondary h-[calc(100vh-185px)] py-2 px-5&quot;]/div[@class=&quot;p-4 w-full h-full bg-background-secondary&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-background-primary rounded-lg w-96 shadow-lg&quot;]/div[@class=&quot;show-scrollbar px-4 pb-4 space-y-3 max-h-[500px] overflow-y-scroll&quot;]/div[@class=&quot;flex items-center min-w-[200px]&quot;]/label[@class=&quot;flex items-center cursor-pointer w-full&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-10 h-6 border-2 border-teal-600 rounded-full transition-colors bg-gray-200&quot;]/div[@class=&quot;absolute w-4 h-4 border-2 border-teal-600 bg-background-primary rounded-full transition-transform transform top-1 left-1 translate-x-0&quot;]</value>
+      <webElementGuid>cee7413e-957e-42d5-9bc9-0621806e6907</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div[2]/div/div[3]/div/div[3]/div[6]/label/div/div/div</value>
+      <webElementGuid>9039cba7-5767-481c-8440-8623702c7421</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/label/div/div/div</value>
+      <webElementGuid>548a6c06-3b31-4e9f-963e-b94b49b40b24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

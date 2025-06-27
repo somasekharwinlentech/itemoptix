@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d81e6580-d7f4-48d7-bc3b-d7bfe0139153</webElementGuid>
+      <webElementGuid>81c95635-d1a1-4887-8c31-0855923bce4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>40a0ddf0-c6d7-418c-bdda-184d10cdca2d</webElementGuid>
+      <webElementGuid>253e60ad-d90f-41fe-9a13-f7fc115b810d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>ndaSigned</value>
-      <webElementGuid>513aea53-bd09-4719-b33b-04c048a76550</webElementGuid>
+      <webElementGuid>2bc5b4ef-b4b0-4cc3-ac31-dd3a17e3fb2d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-checkbox h-5 w-5 text-blue-600 </value>
-      <webElementGuid>28a1ff04-2be4-490a-b338-677741854566</webElementGuid>
+      <webElementGuid>6cad36f7-c212-49f4-957c-585515bde43a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[2]/label[@class=&quot;inline-flex items-center&quot;]/input[@class=&quot;form-checkbox h-5 w-5 text-blue-600&quot;]</value>
-      <webElementGuid>8379528e-0c3d-4f84-9e78-f7059291ca2b</webElementGuid>
+      <webElementGuid>2fb735bd-3ba9-4da8-81f9-5fd29a4be4ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='ndaSigned']</value>
-      <webElementGuid>1a82033c-a00f-4782-8253-bf64a8159083</webElementGuid>
+      <webElementGuid>ad0f32b5-b1e6-47d3-b35e-44b4399557d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[2]/label[2]/input</value>
-      <webElementGuid>d468c8a2-e30c-48a9-a98f-cd2c0aae82f7</webElementGuid>
+      <webElementGuid>e13be12e-6c6a-4014-ae35-056e83573132</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/label[2]/input</value>
-      <webElementGuid>a1a65f20-c22c-494c-a509-01a124447794</webElementGuid>
+      <webElementGuid>1c9db4fb-0d2b-43de-b22f-6d33ff1a5125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox' and @name = 'ndaSigned']</value>
-      <webElementGuid>bc0366b1-41c7-49bf-a0ba-d307f2d21d8f</webElementGuid>
+      <webElementGuid>019c3d9e-019d-4ac3-a73b-7471d2196350</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

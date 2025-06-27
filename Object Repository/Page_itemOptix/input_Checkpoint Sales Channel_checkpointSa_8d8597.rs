@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>9ce880af-351d-40eb-9be0-22487b16618a</webElementGuid>
+      <webElementGuid>d57c979e-c8b0-443d-9a95-7ee34154d33a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>f63ee251-2028-4934-ad24-9cfc53dace20</webElementGuid>
+      <webElementGuid>754665a4-b3e0-4c7e-b0ef-807f8a2be9bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>checkpointSalesChannel</value>
-      <webElementGuid>b88333b3-dcae-42e2-9d40-b74673f316a2</webElementGuid>
+      <webElementGuid>5dfc265d-3c5c-4cee-acab-5d6739075e54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>9b81637e-fd8a-49cb-8742-240080bfc784</webElementGuid>
+      <webElementGuid>67c596ff-9fdc-44e2-9447-33b3e410f225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[3]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>d9508cd9-f5e6-4a64-aa82-bd32d0ac3df0</webElementGuid>
+      <webElementGuid>2d00d936-7488-4b08-b69f-850d57f2dfe3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='checkpointSalesChannel']</value>
-      <webElementGuid>cf1d255c-fed5-4f43-8826-ddd9fa91fa50</webElementGuid>
+      <webElementGuid>be99a5f4-c985-409a-bd0f-2264b1b37757</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[3]/input</value>
-      <webElementGuid>c21fef2d-5813-4e6c-a544-01b3c4234480</webElementGuid>
+      <webElementGuid>cb648e35-c29c-4929-864e-298fcb91583b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>08a604c5-27db-4772-9750-e1402cb29ed1</webElementGuid>
+      <webElementGuid>59b985f3-100f-4563-8268-ab0358dfdc06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'checkpointSalesChannel']</value>
-      <webElementGuid>989375da-58a4-4ab0-b6b9-bc4e00488a61</webElementGuid>
+      <webElementGuid>25cbce65-54ac-4a6e-ba9d-2b406a5d2dc3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>cad5d8cc-881e-40a1-80ea-a44831c605ff</webElementGuid>
+      <webElementGuid>7c4fe59f-1c80-43c7-81c5-3927766bf390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>subscriptionTerm</value>
-      <webElementGuid>37f4b15d-089d-4ae7-83b3-1a56fb19a5cf</webElementGuid>
+      <webElementGuid>4e9fea10-d0d8-4555-a8f3-d5422beeae7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>38098a85-91fe-4819-8a08-288f8ee83e1f</webElementGuid>
+      <webElementGuid>a2a8d8b9-68b4-433e-8191-ca8cf2365477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select term15 Days30 Days</value>
-      <webElementGuid>41b823bf-ce77-4f7a-9ec0-d9beb871e3d4</webElementGuid>
+      <webElementGuid>28615239-2d7a-49be-aff7-0c8e9928e75e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[5]/select[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>0d726ad1-cce6-49dd-8c0e-268f7a38fba5</webElementGuid>
+      <webElementGuid>032456e5-a06c-4072-bc29-b3e217729804</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='subscriptionTerm']</value>
-      <webElementGuid>21d32c7d-d726-491c-8dce-53d12175ae18</webElementGuid>
+      <webElementGuid>8294637e-6f7c-48da-9dd1-6cc7568575fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[5]/select</value>
-      <webElementGuid>c4971177-9fe4-417c-be3e-852c1e32ed18</webElementGuid>
+      <webElementGuid>35eb37c7-74fb-41d0-a271-5b81b652053f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
-      <webElementGuid>3dbb05e7-a599-467a-ae8b-fbf9f56595dd</webElementGuid>
+      <webElementGuid>cc617ac4-82a0-4598-bff7-b10c85fc4e78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::select[1]</value>
-      <webElementGuid>9aba36fc-aa29-4e61-9d1d-e291e841df56</webElementGuid>
+      <webElementGuid>95a1cd77-a116-4fe4-88b7-6e8e7606705d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/select</value>
-      <webElementGuid>e5cd4bc2-55fa-40d7-8678-bdba02e4d4c1</webElementGuid>
+      <webElementGuid>c33ddb1d-ab4f-45f4-b059-f18237b95c30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'subscriptionTerm' and (text() = 'Select term15 Days30 Days' or . = 'Select term15 Days30 Days')]</value>
-      <webElementGuid>646918b5-7626-4b0e-8409-dd09c9f32f59</webElementGuid>
+      <webElementGuid>9338f5cc-cd08-4368-ba9d-52359d7a0695</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

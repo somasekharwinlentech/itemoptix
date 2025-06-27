@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Last 30 days_1</name>
+   <tag></tag>
+   <elementGuidId>d840f26e-a787-4a8a-ae2d-532a258750b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Last 30 days&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0c7a1083-c1c9-49e9-b349-7956abee2519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 text-left rounded-md hover:bg-background-secondary</value>
+      <webElementGuid>79560e81-db29-4d42-90de-399c8217930e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last 30 days</value>
+      <webElementGuid>7453c636-1490-416d-a46b-5850fc36855e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;overflow-hidden flex flex-col&quot;]/div[@class=&quot;bg-background-primary w-full&quot;]/div[@class=&quot;flex justify-between px-3 py-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;min-w-fit&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute z-10 mt-1&quot;]/div[@class=&quot;w-64 bg-background-primary rounded-lg shadow-lg p-2 border border-gray-200&quot;]/div[@class=&quot;flex flex-col space-y-1&quot;]/button[@class=&quot;px-4 py-2 text-left rounded-md hover:bg-background-secondary&quot;]</value>
+      <webElementGuid>f3b88f0d-8372-47df-b092-fd3ca2ff048d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/button[3]</value>
+      <webElementGuid>8ad10dd7-06e0-42d1-98b7-720fbabf230e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 7 days'])[2]/following::button[1]</value>
+      <webElementGuid>89c9ca97-b593-4881-9726-83d6314fd4ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::button[2]</value>
+      <webElementGuid>990e5df2-241c-45f0-a564-2ca4d685c7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 90 days'])[1]/preceding::button[1]</value>
+      <webElementGuid>7ccdabfb-49f3-4de0-920f-761c8d6348f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Range'])[1]/preceding::button[2]</value>
+      <webElementGuid>93938990-3ea0-4375-a393-2c9fce2d1852</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Last 30 days']/parent::*</value>
+      <webElementGuid>3aa11522-e049-45fe-b980-1305479cd599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/button[3]</value>
+      <webElementGuid>fa4d9f88-77a7-4461-9aab-8458162c3bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Last 30 days' or . = 'Last 30 days')]</value>
+      <webElementGuid>d236dc1b-f773-42fb-8cf3-bc4ef818edaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div/button</value>
+      <webElementGuid>40eeea9c-0e04-42ab-ad2a-655a96ffa869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/following::button[1]</value>
+      <webElementGuid>74bc2c3c-d188-4d2d-b7ed-71bb9e6c2af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='May 27 2025-Jun 25 2025'])[1]/preceding::button[1]</value>
+      <webElementGuid>9d364f26-2184-417b-8dab-6429edde3f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/button</value>
+      <webElementGuid>4a4275da-7b31-4717-b896-c79e3d3c5010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Last 30 days ' or . = 'Last 30 days ')]</value>
+      <webElementGuid>9dec3af3-3eb3-43ac-9a6e-1e94cb22437d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

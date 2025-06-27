@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Account creation trying to fill from excel</description>
+   <description>logged in with valid credentials</description>
    <name>Create account after login</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>21f1d503-d534-4f07-8f35-4a8e2ccbc5df</testCaseGuid>
+   <testCaseGuid>9e5d609a-3025-4203-aa5a-aebc5bd30972</testCaseGuid>
 </TestCaseEntity>

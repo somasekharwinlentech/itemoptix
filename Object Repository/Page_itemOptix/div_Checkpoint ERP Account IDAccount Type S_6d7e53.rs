@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Checkpoint ERP Account IDAccount Type S_6d7e53</name>
+   <tag></tag>
+   <elementGuidId>90c02045-1040-4c2b-8f24-972c7914764e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.grid</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7de5fbe8-ce3c-4f48-9555-9f5562ccaef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6</value>
+      <webElementGuid>93da2c59-b6c5-493b-92b3-c7287a7fd59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkpoint ERP Account IDAccount Type *Select account typeMASPARTNERCheckpoint Sales ChannelRFID Label SupplierRequest DateLast Edit DateSOW Signed *NDA Signed *GDPR Compliant *Request Created ByLast Edited By</value>
+      <webElementGuid>b64134da-9302-4014-bee3-2fbf2ae91a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]</value>
+      <webElementGuid>310029d7-44f1-4d42-9aca-7d94969220ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b56d7921-1d1a-46c9-84b4-d20d58674ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Details'])[1]/following::div[2]</value>
+      <webElementGuid>3b277d89-02e0-470e-b9c3-fd45bea78c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup Details'])[1]/following::div[2]</value>
+      <webElementGuid>6bc8e920-a416-4bd4-8608-729d2514507f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>ce39385c-6a81-40e7-af2a-f68e632717f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Checkpoint ERP Account IDAccount Type *Select account typeMASPARTNERCheckpoint Sales ChannelRFID Label SupplierRequest DateLast Edit DateSOW Signed *NDA Signed *GDPR Compliant *Request Created ByLast Edited By' or . = 'Checkpoint ERP Account IDAccount Type *Select account typeMASPARTNERCheckpoint Sales ChannelRFID Label SupplierRequest DateLast Edit DateSOW Signed *NDA Signed *GDPR Compliant *Request Created ByLast Edited By')]</value>
+      <webElementGuid>9dfa0507-0564-40ac-b16a-d54205553db6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

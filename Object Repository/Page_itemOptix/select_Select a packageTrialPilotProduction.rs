@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>02e91a49-dda7-4d30-af80-3c05256c6a6d</webElementGuid>
+      <webElementGuid>abbf69cd-37a3-48ef-a0b0-0e6704b39f02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>licensePackage</value>
-      <webElementGuid>56b19e8b-9695-496f-9047-72aaab7a6538</webElementGuid>
+      <webElementGuid>4ba11009-4bb9-42c5-a0b1-902ee1a66c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>a8dd8e69-c319-4b37-aefc-aa53f0632619</webElementGuid>
+      <webElementGuid>383e612e-2813-495f-93f5-ecb7c905fd8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select a packageTrialPilotProduction</value>
-      <webElementGuid>f3ef384f-0a8d-44bf-a44d-3e69a879a92b</webElementGuid>
+      <webElementGuid>b00d2214-ca4b-4c9d-9d2c-eafcab6bfe76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[4]/select[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>dbcd77a0-1fab-46c0-a7dc-713238cc42c8</webElementGuid>
+      <webElementGuid>7cd0bcce-a187-421e-a344-8efe36826fae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='licensePackage']</value>
-      <webElementGuid>e753fb9d-4b55-4cc7-a902-a9c689ce62b0</webElementGuid>
+      <webElementGuid>ffb89c66-a660-4309-9f18-efd4be001c4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[4]/select</value>
-      <webElementGuid>ff2b2762-353b-497e-9421-40a96cc01872</webElementGuid>
+      <webElementGuid>685bf2d1-e302-47c8-85ab-ed2ddc6085a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::select[1]</value>
-      <webElementGuid>0a5d7f63-b553-40d6-9e1b-693d57299529</webElementGuid>
+      <webElementGuid>8a8ca6f0-7777-41d7-8aae-1864255f6c16</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::select[1]</value>
-      <webElementGuid>26c85b6b-fe54-480a-89e3-e5676ad75955</webElementGuid>
+      <webElementGuid>a1fb8567-69e8-4a38-ac9c-3be4fdee6075</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>c06d5872-9cca-458b-8364-9f2b9b3fed42</webElementGuid>
+      <webElementGuid>4ec7aaf9-6f00-477e-806a-d94980646842</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'licensePackage' and (text() = 'Select a packageTrialPilotProduction' or . = 'Select a packageTrialPilotProduction')]</value>
-      <webElementGuid>8d503fab-855d-49a4-bad0-908c725c8bac</webElementGuid>
+      <webElementGuid>5d96df77-4d7e-4966-8229-fb334345e7b8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

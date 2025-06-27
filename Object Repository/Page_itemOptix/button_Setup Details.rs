@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>377b507c-27dd-4e15-ac4d-d27df4272128</webElementGuid>
+      <webElementGuid>5aa41559-29e3-44aa-acf4-5dbd31f36ddd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>px-4 py-2 -mb-px text-gray-500 hover:text-gray-700</value>
-      <webElementGuid>a65700ab-2a6d-490c-85c6-4e37deb43c80</webElementGuid>
+      <webElementGuid>c46ce4ea-faa3-44e5-8a2e-48225c7d36a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Setup Details</value>
-      <webElementGuid>943a96dc-e347-446f-b8fb-97e95d9345ec</webElementGuid>
+      <webElementGuid>c56a449d-da17-4a2f-bb12-f08da0a0998a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +52,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;flex border-b&quot;]/button[@class=&quot;px-4 py-2 -mb-px text-gray-500 hover:text-gray-700&quot;]</value>
-      <webElementGuid>7e6652ca-5875-4954-881a-08d44fddf53f</webElementGuid>
+      <webElementGuid>a030eb13-b61a-4b95-ace6-1a6a153e5c63</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div/button[2]</value>
-      <webElementGuid>998730fc-cc6a-416a-8db5-b8929e536b52</webElementGuid>
+      <webElementGuid>132f7407-b802-4a3c-a7d1-0a47a38d2b5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Details'])[2]/following::button[1]</value>
-      <webElementGuid>cdf324ec-cb84-45ed-a306-058eee903b7d</webElementGuid>
+      <webElementGuid>0d79086c-76e2-4917-96bd-bcda7eda0e34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create New Account'])[1]/following::button[3]</value>
-      <webElementGuid>4e82993e-98f3-496c-b458-5816b992d4df</webElementGuid>
+      <webElementGuid>2aa84592-3c55-46cd-807c-fed9331614ff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Details'])[1]/preceding::button[1]</value>
-      <webElementGuid>5ba6d537-0bbc-4ca0-a66b-5941792aebf2</webElementGuid>
+      <webElementGuid>788f967a-bb0a-4a11-8c5b-ca810e406b34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Setup Details']/parent::*</value>
-      <webElementGuid>557c575f-8eb0-4650-8240-a7155452e0cb</webElementGuid>
+      <webElementGuid>b4baacce-daef-4516-924e-d862cb925b79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/button[2]</value>
-      <webElementGuid>165cad3a-445c-4b1f-8d55-bffaada47a79</webElementGuid>
+      <webElementGuid>d4f71f41-8ed9-43fb-8fd9-bd60d1306af2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +108,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Setup Details' or . = 'Setup Details')]</value>
-      <webElementGuid>dede686e-70f1-41da-8fcd-9867fb102a31</webElementGuid>
+      <webElementGuid>da894b3b-9de8-4693-8894-c7ef720b497a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

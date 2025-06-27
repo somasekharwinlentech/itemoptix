@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f29e1c11-2f5a-43ab-8f30-4ceecf59f767</webElementGuid>
+      <webElementGuid>e3b34ecf-94e2-4ed3-bef7-0e3d304c3e90</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>accountType</value>
-      <webElementGuid>c505c267-6854-49f6-80a7-83613f3350bf</webElementGuid>
+      <webElementGuid>979c4745-bf64-499b-9f59-59ef1bbf360b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>9c11cca6-323f-47a2-8ce0-92a185dca213</webElementGuid>
+      <webElementGuid>b72127b5-7c27-473b-80c0-52ca410fd59b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select account typeMASPARTNER</value>
-      <webElementGuid>5942f789-c1f4-4581-90aa-d65dd5549165</webElementGuid>
+      <webElementGuid>536d2f86-7946-42ee-b7b4-4abe4e1784d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[2]/select[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>6db9895f-f31b-4b54-8d65-5394a5fc2b7e</webElementGuid>
+      <webElementGuid>d22c329e-7e2d-4af4-a6ba-32fcfb5528c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='accountType']</value>
-      <webElementGuid>51458c4c-8a36-41e9-a6fa-f2c45e262f48</webElementGuid>
+      <webElementGuid>16fccbed-78b4-4db0-bf37-34aef51f7469</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/select</value>
-      <webElementGuid>37a95a1a-49c3-45b6-9c31-85de33d9ef51</webElementGuid>
+      <webElementGuid>14266838-d6fa-4f3b-b67b-c66d4dc5a16a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
-      <webElementGuid>d4044b2d-d26f-4a7f-bd79-e47815516541</webElementGuid>
+      <webElementGuid>a3012f36-715c-4d8f-ae66-81f0b3c834b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkpoint Sales Channel'])[1]/preceding::select[1]</value>
-      <webElementGuid>551f61b5-2084-4f8c-80a4-f59acbbe3309</webElementGuid>
+      <webElementGuid>3f636bc1-19b9-473c-bf0c-8c8a5ae43be6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='RFID Label Supplier'])[1]/preceding::select[1]</value>
-      <webElementGuid>747cf378-6af6-434c-b4ba-2965e329977f</webElementGuid>
+      <webElementGuid>698a750e-d8c8-4de2-892e-ad996b4a588d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>fd0776d6-d62f-4954-8035-861d6538112f</webElementGuid>
+      <webElementGuid>e4776959-2371-4362-9baf-304fa365ffb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'accountType' and (text() = 'Select account typeMASPARTNER' or . = 'Select account typeMASPARTNER')]</value>
-      <webElementGuid>6dba8b93-1e04-49de-a0a5-04e78843f14d</webElementGuid>
+      <webElementGuid>d5d62e86-2f60-4648-91c1-944233a13ac8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>10ea7c70-f1a2-42c2-9f9c-e9cddeab86cc</webElementGuid>
+      <webElementGuid>c6e7abed-b664-4768-8aff-4707241f49e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>f0ee4a49-1ec9-405c-ba9a-e1e6cb06008c</webElementGuid>
+      <webElementGuid>ed3c6c3b-fc5c-44dd-8e4e-7f3bf25476fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>avgInventorySize</value>
-      <webElementGuid>eeac6aff-3616-4c48-a46c-b9ba785654fb</webElementGuid>
+      <webElementGuid>17588a92-ef77-4e40-8c54-2ce9172096d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>7a76a7a5-2e44-4e77-bd9c-2c09cf690818</webElementGuid>
+      <webElementGuid>194ce191-8762-4fb5-ac58-ccd6643a65b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>min</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>d9561afb-b12b-41fe-b854-0e0897737d0a</webElementGuid>
+      <webElementGuid>6478f6ea-883c-4ad7-9ad6-f4aa4d3ef2da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[1]/input[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>53af1257-3498-4516-9c90-1138b821f566</webElementGuid>
+      <webElementGuid>094d4b1d-f1b9-433d-baa0-2a81ee25197a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='avgInventorySize']</value>
-      <webElementGuid>76e042ee-aeb2-4bcd-bb24-ff86a928b482</webElementGuid>
+      <webElementGuid>8a91f654-e735-42d2-a102-ac25be64c7dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div/input</value>
-      <webElementGuid>046899ac-36ed-4f38-8aa2-a9adacffeea3</webElementGuid>
+      <webElementGuid>53c838e9-bddb-4905-af1e-56611bac1b90</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/input</value>
-      <webElementGuid>5bf67f61-3670-4858-9f7a-71ededa0a88b</webElementGuid>
+      <webElementGuid>c192a69b-ad6a-4c46-8352-e24c66e214fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'avgInventorySize']</value>
-      <webElementGuid>c8e24640-693a-448e-92ee-4707ad6de1c1</webElementGuid>
+      <webElementGuid>dc0dbcdb-062e-4c5c-8f98-a4f036ebefa5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

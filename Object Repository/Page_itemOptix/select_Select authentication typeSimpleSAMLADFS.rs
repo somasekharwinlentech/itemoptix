@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>d080a65b-0d84-498e-af24-6de72c19d114</webElementGuid>
+      <webElementGuid>0fd2bffb-e527-4d5f-a362-39f3731547d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>userAuthType</value>
-      <webElementGuid>218feed8-27f8-4770-b4d0-40a6c02c5c6b</webElementGuid>
+      <webElementGuid>4abc4c22-26bc-4509-b762-07acc681bd08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md  bg-gray-50</value>
-      <webElementGuid>9d821b0c-ae7d-4a41-ad61-1e4afd855ae0</webElementGuid>
+      <webElementGuid>10e48813-4fc0-4136-a230-e74893652640</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select authentication typeSimpleSAMLADFS</value>
-      <webElementGuid>f54eb6eb-ed49-45fc-93e4-6226ecc7ba12</webElementGuid>
+      <webElementGuid>43b9dcde-0d78-4eba-9294-d895632019e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] min-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[4]/select[@class=&quot;w-full p-3 border rounded-md  bg-gray-50&quot;]</value>
-      <webElementGuid>4b802dfc-fc4c-455d-b8ae-d52704afe81b</webElementGuid>
+      <webElementGuid>16eb6905-3d6c-4dd4-8af3-e4e6fae07cd4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='userAuthType']</value>
-      <webElementGuid>16d7c193-65cb-4f80-942f-e60bbdf1ad7d</webElementGuid>
+      <webElementGuid>3c8ec27c-f17b-43d5-a476-af7cee7d4908</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[4]/select</value>
-      <webElementGuid>8e35307a-3801-4910-a5af-efa6c123b76b</webElementGuid>
+      <webElementGuid>5f7063d1-a607-4c9a-91c1-76d28ae2f85c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
-      <webElementGuid>23ed683c-dbe8-4fc8-b42e-3f62c919a5bc</webElementGuid>
+      <webElementGuid>d5a870ed-340e-4580-b90e-0d42dac4096f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Average Inventory Size/store'])[1]/preceding::select[1]</value>
-      <webElementGuid>78c812d7-2893-4cf6-bf8d-b23f547472d5</webElementGuid>
+      <webElementGuid>1bebea15-42bf-49b7-a3a6-485a91e6c8a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Device Model(s)'])[1]/preceding::select[1]</value>
-      <webElementGuid>22aeaacf-ce04-4cee-9cd8-64d707683928</webElementGuid>
+      <webElementGuid>a6360b08-ecd9-44c2-81cc-41e3ca106ecc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/select</value>
-      <webElementGuid>3b4eb203-e9bd-4976-a9d9-9a8ce60fcd74</webElementGuid>
+      <webElementGuid>a6215eb6-c089-44b8-8d36-beab6f8b66d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'userAuthType' and (text() = 'Select authentication typeSimpleSAMLADFS' or . = 'Select authentication typeSimpleSAMLADFS')]</value>
-      <webElementGuid>6fb3e599-9340-4e02-8ab9-f8b5adc81e3d</webElementGuid>
+      <webElementGuid>a55662b2-b7f7-4a74-b625-2c1906a5e4e6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

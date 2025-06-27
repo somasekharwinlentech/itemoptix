@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Store_Inventory_TaskReport</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d502177e-4e3f-49cb-a836-db26f77bf33a</testCaseGuid>
+</TestCaseEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a4962adb-6ac1-461f-8073-ac83a4482851</webElementGuid>
+      <webElementGuid>846969e4-cc15-419e-91c7-5212756b56d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2e68dc0b-b222-4caa-a8bf-304feada65f2</webElementGuid>
+      <webElementGuid>4c66c263-3c6c-47cf-ac2c-760d6673e525</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>keyCloakUrl</value>
-      <webElementGuid>64ffc2a9-b8cd-4fa0-9c29-248e7df48fa5</webElementGuid>
+      <webElementGuid>5ecbecf8-54e6-42a9-81e3-7c9d101d5505</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>https://iammaster.winlen.us</value>
-      <webElementGuid>61a22072-afff-4c0e-8290-ec198a0b46d4</webElementGuid>
+      <webElementGuid>57813fb2-e70e-411d-8da0-263bb82b57c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>cd1d1dd5-c17f-4f7b-8bbc-71da260cc51d</webElementGuid>
+      <webElementGuid>567ba9f7-7661-48cd-b647-f016e4b13621</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[11]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>b831efa3-73bc-431e-a94c-fa99312584c4</webElementGuid>
+      <webElementGuid>eec9e1c0-b453-4272-9e64-08e08e1fd8c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='keyCloakUrl']</value>
-      <webElementGuid>f6d1325e-37ef-4900-b212-9bd206a4dd94</webElementGuid>
+      <webElementGuid>412d8155-a678-4c80-8f64-386a59cbe97a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[11]/input</value>
-      <webElementGuid>7d299b15-a774-4288-9255-1e3108549b23</webElementGuid>
+      <webElementGuid>64f8aeba-edbb-4891-af77-beb1e793ac03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[11]/input</value>
-      <webElementGuid>890fac73-ccc8-4616-aab5-892980134b24</webElementGuid>
+      <webElementGuid>fab0094a-3403-401d-b2c4-2dca2e3daddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'keyCloakUrl' and @placeholder = 'https://iammaster.winlen.us']</value>
-      <webElementGuid>4759e866-196c-4a53-b203-6a924d804486</webElementGuid>
+      <webElementGuid>b72fcdfa-7130-4cec-b6b6-5f5a18063f6e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

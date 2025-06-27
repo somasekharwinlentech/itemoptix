@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>6b3222c4-9c8a-490f-b71a-1122ff138fef</webElementGuid>
+      <webElementGuid>ce559018-c430-47d5-9ed3-c6e47de01001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>5611e9f7-de34-4641-87f4-0a93f3d52fff</webElementGuid>
+      <webElementGuid>0428704a-476f-49f1-a408-a0ff661cfca9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pf-c-button pf-m-primary pf-m-block btn-lg</value>
-      <webElementGuid>32e0178c-9f5c-4784-b4c9-2690510b7663</webElementGuid>
+      <webElementGuid>65918490-648b-4982-94a0-32012f937265</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>login</value>
-      <webElementGuid>e9fec253-e8e8-4a5f-aa96-88b9f91df4f5</webElementGuid>
+      <webElementGuid>cce9df38-34f0-43ac-b230-96c31b64bb01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>kc-login</value>
-      <webElementGuid>72e4c7c0-82bf-4adf-b77d-c37ebd0d3ac9</webElementGuid>
+      <webElementGuid>24febf2f-bcb0-40d4-8aa1-cdc23a634dc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>77d00d2b-72cd-48fd-8d69-200772e028b1</webElementGuid>
+      <webElementGuid>02db289c-1693-45a2-bb42-aef89796d4b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>value</name>
       <type>Main</type>
       <value>LogIn</value>
-      <webElementGuid>26254725-6781-4eb2-98bd-2b95334e861a</webElementGuid>
+      <webElementGuid>bc48f5cb-f706-4771-9557-9901e7a2b09f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;kc-login&quot;)</value>
-      <webElementGuid>b9767c0a-9ab7-4ba9-8e94-8b665fb25506</webElementGuid>
+      <webElementGuid>9f5ca832-5d92-4b8e-8ce0-82d8af1180c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='kc-login']</value>
-      <webElementGuid>f6ad10b6-36d4-4fc2-8762-0b8277782cec</webElementGuid>
+      <webElementGuid>eba480f3-5f2b-467f-be1b-18ab1ea49585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='kc-form-buttons']/input[2]</value>
-      <webElementGuid>19b7692b-0a1d-45e5-8601-185775cab840</webElementGuid>
+      <webElementGuid>d356452d-1a57-4d00-aa48-807917fdf55b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[2]</value>
-      <webElementGuid>1595d8e9-3110-4cd3-a1f3-8925a21b8d89</webElementGuid>
+      <webElementGuid>1bef777c-71a1-4388-b625-0fd701da396c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'login' and @id = 'kc-login' and @type = 'submit']</value>
-      <webElementGuid>499c876b-9138-47d0-aab1-287f83c99407</webElementGuid>
+      <webElementGuid>031e24c1-9883-4dcc-b7a9-4d57dbb7ae13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Last 7 days_1</name>
+   <tag></tag>
+   <elementGuidId>8da5f0ff-a2c6-4d59-b478-d0adb5f194a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Last 7 days&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df9cfcc1-9cc4-4c35-9e62-a6e4fd097e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-4 py-2 text-left rounded-md hover:bg-background-secondary</value>
+      <webElementGuid>7673ffb8-b29f-4b60-ae1c-cbf0e1d08ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last 7 days</value>
+      <webElementGuid>65b25f90-32e1-4026-9a04-708ce7b89297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;overflow-hidden flex flex-col&quot;]/div[@class=&quot;bg-background-primary w-full&quot;]/div[@class=&quot;flex justify-between px-3 py-4&quot;]/div[@class=&quot;flex flex-col gap-2&quot;]/div[@class=&quot;min-w-fit&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;absolute z-10 mt-1&quot;]/div[@class=&quot;w-64 bg-background-primary rounded-lg shadow-lg p-2 border border-gray-200&quot;]/div[@class=&quot;flex flex-col space-y-1&quot;]/button[@class=&quot;px-4 py-2 text-left rounded-md hover:bg-background-secondary&quot;]</value>
+      <webElementGuid>28ccb323-25e2-4a63-aea4-2d6852372c77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div/div[2]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>dc4d5c62-d7b9-4aae-a95c-60ca99d94086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::button[1]</value>
+      <webElementGuid>b66b039b-a73d-4f54-9fa9-7d060c559c33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 90 days'])[1]/following::button[2]</value>
+      <webElementGuid>cac80f96-c935-4e36-ac9b-1bccb4864d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 30 days'])[1]/preceding::button[1]</value>
+      <webElementGuid>bd3bc005-fdaf-469f-b910-a20f5b9f199e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last 90 days'])[2]/preceding::button[2]</value>
+      <webElementGuid>8a266c29-0c05-4e7d-ae28-0c7e581c9ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Last 7 days']/parent::*</value>
+      <webElementGuid>cd57ff92-f79f-413b-99e0-c6445bc5ca0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>f6f578e9-86bb-40e2-a9dc-153a7dae4786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Last 7 days' or . = 'Last 7 days')]</value>
+      <webElementGuid>f3deb1d9-edf5-462a-bff1-88c01eec21a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>954832e9-2554-4e75-bc17-d1308e691f00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

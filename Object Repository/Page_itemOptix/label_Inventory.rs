@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Inventory</name>
+   <tag></tag>
+   <elementGuidId>7e287771-09f3-4e6b-9e39-b6ee3fe7deed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> internal:text=&quot;Inventory&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>cdc947d1-8aa2-4c97-ae88-affa5c668e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-2 px-3 py-2 hover:bg-gray-100 cursor-pointer</value>
+      <webElementGuid>4844594d-b220-4869-b93b-7377e54485d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inventory</value>
+      <webElementGuid>618f018a-de7c-4c7d-8f09-4536fe722090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;bg-background-primary flex flex-col md:flex-row items-start gap-2&quot;]/div[@class=&quot;flex flex-col gap-4 p-2&quot;]/div[@class=&quot;flex flex-col gap-1 relative&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;z-10 absolute top-full left-0 w-44 bg-white border border-gray-300 rounded-md shadow-md mt-1&quot;]/label[@class=&quot;flex items-center gap-2 px-3 py-2 hover:bg-gray-100 cursor-pointer&quot;]</value>
+      <webElementGuid>b8b0e40e-2276-40f2-964d-ed5e83cbcd7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/label[2]</value>
+      <webElementGuid>f4412ac3-6aa1-49fc-802e-4ce036a46037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/following::label[1]</value>
+      <webElementGuid>711b249b-ecc9-4a82-b68b-fc9325653eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::label[2]</value>
+      <webElementGuid>3e190cf9-8c5d-4f40-9486-99cbb838d313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Display'])[1]/preceding::label[1]</value>
+      <webElementGuid>70f4543c-9193-4f8e-8dbe-a2cbae029161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/preceding::label[2]</value>
+      <webElementGuid>0e19ea8a-3252-41dc-989d-f053731d2872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>dca7ca40-c7f2-4761-8343-b00d559128c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Inventory' or . = 'Inventory')]</value>
+      <webElementGuid>e2552e75-4fff-462c-ae2a-25174c55427c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

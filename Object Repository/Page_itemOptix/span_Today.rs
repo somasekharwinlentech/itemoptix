@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Today</name>
+   <tag></tag>
+   <elementGuidId>8831fd29-73a6-4ed4-89fa-1cf1c9f36a02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div/button/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Today&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e0de39a6-094a-4f97-9a2c-2afa7f258c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-text-primary text-[0.85rem] px-2 truncate</value>
+      <webElementGuid>64666bc8-88c8-4f11-974b-0aafb3019631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today</value>
+      <webElementGuid>f8fcc639-3a8d-4c8d-9605-2c2c7f5f024b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-full overflow-hidden&quot;]/div[@class=&quot;h-full w-full&quot;]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex h-20 justify-between&quot;]/div[@class=&quot;pr-3&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/button[@class=&quot;h-9 flex items-center justify-between px-3 
+                     text-sm border-2 border-primary rounded-[10px] bg-background-primary hover:bg-background-disabled 
+                     focus:outline-none focus:ring-1 focus:ring-primary min-w-[160px] pr-2&quot;]/div[@class=&quot;flex items-center space-x-2 truncate&quot;]/span[@class=&quot;text-text-primary text-[0.85rem] px-2 truncate&quot;]</value>
+      <webElementGuid>b30150c8-f398-4abd-92e0-bbb77ba4f44d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div/button/div/span</value>
+      <webElementGuid>b1649207-2f7f-4b25-a487-56a8386e0fcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/following::span[1]</value>
+      <webElementGuid>c8d7914f-a7a4-47c8-b16b-83e9db56b54c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun 25 2025-Jun 25 2025'])[1]/preceding::span[1]</value>
+      <webElementGuid>5496e165-de7f-4edb-9d7f-f121db5a7a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filters'])[1]/preceding::span[1]</value>
+      <webElementGuid>91007b05-6a0b-4444-8814-fdea3aa32b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Today']/parent::*</value>
+      <webElementGuid>ce0717bf-bc1d-4081-b31b-a407a9e7833c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/span</value>
+      <webElementGuid>95a88dc8-70b5-42c9-b560-960d95876b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Today' or . = 'Today')]</value>
+      <webElementGuid>4bcdbc3c-46ed-4810-bac6-023f9f6dac3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

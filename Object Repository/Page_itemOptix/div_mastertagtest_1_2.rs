@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_mastertagtest_1_2</name>
+   <tag></tag>
+   <elementGuidId>38714866-2227-4ada-9a97-53185dc045ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cell-clientId-30']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#cell-clientId-30 >> internal:text=&quot;mastertagtest&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37a6f278-3ef8-4298-b015-434155d90b39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-[#F1FAFF] text-[#1873BC] h-8 rounded flex items-center justify-start p-2 mt-1 cursor-pointer</value>
+      <webElementGuid>240201d1-e9a4-43f4-bb96-110c527a2caa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mastertagtest</value>
+      <webElementGuid>0117749a-e83b-4148-8d7e-1fd0fd187796</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cell-clientId-30&quot;)/div[@class=&quot;bg-[#F1FAFF] text-[#1873BC] h-8 rounded flex items-center justify-start p-2 mt-1 cursor-pointer&quot;]</value>
+      <webElementGuid>f557e3aa-f71f-415e-b52e-238988d908ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cell-clientId-30']/div</value>
+      <webElementGuid>0c9142a6-c827-4bd1-862f-20f5efe7de15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Subscription'])[1]/following::div[25]</value>
+      <webElementGuid>fcf2ff91-375a-4f33-b971-9020bd14219e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Store'])[1]/following::div[33]</value>
+      <webElementGuid>b5b41d35-4329-4856-b7eb-09099b25e96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mastertagtest'])[2]/preceding::div[1]</value>
+      <webElementGuid>9e6fb20b-6a27-486d-8d3b-8dcda7588d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::div[3]</value>
+      <webElementGuid>5d396fea-6928-40e4-bd14-dd2e419f1f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mastertagtest']/parent::*</value>
+      <webElementGuid>3b627f54-d3c8-4da6-8c4f-34226a436767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>a9b9369f-cdf5-4a8b-a4b4-f5136eec99e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'mastertagtest' or . = 'mastertagtest')]</value>
+      <webElementGuid>3aab836d-54ac-4bc5-b1e8-f711683614c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

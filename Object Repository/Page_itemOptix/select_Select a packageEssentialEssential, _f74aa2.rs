@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>80d1e61a-5184-4510-af3f-a5cb9fa6e356</webElementGuid>
+      <webElementGuid>628ecd70-58a4-4a4e-a532-8cfd9f9f9309</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>subscriptionPackage</value>
-      <webElementGuid>201a6f75-3421-4009-ba22-2dcc98c8c506</webElementGuid>
+      <webElementGuid>ebc7e883-d5ec-460a-b593-10d51356c736</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>6d380b18-e3d5-4d29-960d-fe143b122e3e</webElementGuid>
+      <webElementGuid>f8a7e470-95ca-4e04-b31c-e2b72a99bcc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select a packageEssentialEssential, DisplayEssential, TransformEssential, Transform, DisplayAdvancedAdvanced, DisplayAdvanced, TransformAdvanced, Display, TransformDisplayDisplay, Transform</value>
-      <webElementGuid>f89f5516-f935-4dfb-846d-6cbe91821f18</webElementGuid>
+      <webElementGuid>1633a126-7d39-4679-96cd-2d64c688729b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[4]/select[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>1763bb42-3eac-49fe-9762-2edc8c5c28bb</webElementGuid>
+      <webElementGuid>d0fcfa37-d493-4029-ba92-91c61bee0373</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@name='subscriptionPackage']</value>
-      <webElementGuid>c9d61c01-b17b-45b5-a2de-1a3a438fe63a</webElementGuid>
+      <webElementGuid>da431cb8-c780-4351-a0db-d9340ec050a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div[2]/div[4]/select</value>
-      <webElementGuid>81ba9b4f-bfd6-463d-a58e-a99357cfe3b7</webElementGuid>
+      <webElementGuid>42cf0e3f-52f1-4f3d-b891-123df9a6a608</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::select[1]</value>
-      <webElementGuid>c41f163d-0091-422b-96bc-faebe2b5ba1d</webElementGuid>
+      <webElementGuid>6b2ab8d5-2bb1-45d4-b7ea-c64fd14750a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::select[1]</value>
-      <webElementGuid>c8eea291-4c38-4bd3-b69d-9fdee60ae6de</webElementGuid>
+      <webElementGuid>baa8c127-cb88-49ea-80a1-85ed92c6e430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Address'])[1]/preceding::select[1]</value>
-      <webElementGuid>b7313c1e-4607-49d2-bc2f-a0bfc6fcf84b</webElementGuid>
+      <webElementGuid>d72be7d9-392b-46ea-b141-3fee74b949bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[4]/select</value>
-      <webElementGuid>5a4b2a1c-831c-42f6-a220-951bb10d81af</webElementGuid>
+      <webElementGuid>be10e27e-4a19-464b-b956-4a4af78b58e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'subscriptionPackage' and (text() = 'Select a packageEssentialEssential, DisplayEssential, TransformEssential, Transform, DisplayAdvancedAdvanced, DisplayAdvanced, TransformAdvanced, Display, TransformDisplayDisplay, Transform' or . = 'Select a packageEssentialEssential, DisplayEssential, TransformEssential, Transform, DisplayAdvancedAdvanced, DisplayAdvanced, TransformAdvanced, Display, TransformDisplayDisplay, Transform')]</value>
-      <webElementGuid>c2b01c35-8c46-40b4-9520-be6c7a78d9c6</webElementGuid>
+      <webElementGuid>ede50cbb-520b-45ad-a396-742df49b7278</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

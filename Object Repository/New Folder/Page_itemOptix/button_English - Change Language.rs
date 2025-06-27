@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create_1</name>
+   <name>button_English - Change Language</name>
    <tag></tag>
-   <elementGuidId>aad61a91-6e1c-4d08-afb6-270e1727a9dc</elementGuidId>
+   <elementGuidId>a99bd404-5b44-45db-bd2d-52ed4258b42d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <key>CSS</key>
+         <value>button.inline-flex.items-center.text-teal-600</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Create&quot;i] >> nth=1</value>
+         <value>internal:role=button[name=&quot;English - Change Language?&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e6d3bca8-811f-4dee-9082-def8830aa9b6</webElementGuid>
+      <webElementGuid>787e6759-19d5-4322-a3b8-c46f88ff94b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,78 +37,78 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ad296d24-1669-453c-ace1-f0a1a90fa314</webElementGuid>
+      <webElementGuid>350a4f3c-c096-4f20-baba-fedf1371a0c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>px-4 py-1.5 text-text-white rounded-md flex items-center justify-center min-w-[100px] bg-green-600 hover:bg-green-700</value>
-      <webElementGuid>5c20e597-32a0-4fc8-bb1b-4229d8f7253b</webElementGuid>
+      <value>inline-flex items-center text-teal-600</value>
+      <webElementGuid>3c101272-dc9d-407b-889a-7a95f3f1cedf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create</value>
-      <webElementGuid>e1dfb75a-7c11-4063-9da8-7fc4de29bfcb</webElementGuid>
+      <value>English - Change Language?</value>
+      <webElementGuid>59b36f97-170b-484f-bff0-56192502f83e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;flex justify-end space-x-4 p-6&quot;]/button[@class=&quot;px-4 py-1.5 text-text-white rounded-md flex items-center justify-center min-w-[100px] bg-green-600 hover:bg-green-700&quot;]</value>
-      <webElementGuid>7ebd8510-40e4-47d2-8463-15eb030b9fb1</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-screen bg-white&quot;]/div[@class=&quot;w-1/2 flex flex-col justify-center items-center p-20&quot;]/div[@class=&quot;w-full max-w-md text-center&quot;]/div[@class=&quot;mb-10 mt-10 text-center&quot;]/button[@class=&quot;inline-flex items-center text-teal-600&quot;]</value>
+      <webElementGuid>f9554739-7db9-438d-bc97-e99b5a152160</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>dc86951a-2afd-4811-90a8-86d84e8558e9</webElementGuid>
+      <value>//button[@type='button']</value>
+      <webElementGuid>f4863f6a-2a7e-4173-af4a-77d3d1f6e587</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[3]/button[2]</value>
-      <webElementGuid>58bf4ac2-7940-4000-a9c8-9d8fe59d34ca</webElementGuid>
+      <value>//div[@id='root']/div[2]/div[2]/div/div[2]/button</value>
+      <webElementGuid>abfa285c-c6e8-4112-95e5-1013096db5cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
-      <webElementGuid>a7c0a5d0-7753-4d48-8080-ed6115d3a275</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>6b4d79c4-23a2-425b-a39e-48cafffe8570</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Edited By'])[1]/following::button[2]</value>
-      <webElementGuid>50f476c1-f697-49db-8638-a576b4796677</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[2]</value>
+      <webElementGuid>ad72a0aa-9b6e-4f9b-80fc-197d5a1e740d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/button[2]</value>
-      <webElementGuid>679a3e69-271c-42e6-8974-8152735c7030</webElementGuid>
+      <value>//div[2]/button</value>
+      <webElementGuid>8ab60242-e036-4c64-8e6d-b8a7b36f77d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Create' or . = 'Create')]</value>
-      <webElementGuid>5c580692-8aba-4f67-8a21-b745a786ae09</webElementGuid>
+      <value>//button[@type = 'button' and (text() = 'English - Change Language?' or . = 'English - Change Language?')]</value>
+      <webElementGuid>7cc16314-b45c-48f8-b653-a2e3a805204e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

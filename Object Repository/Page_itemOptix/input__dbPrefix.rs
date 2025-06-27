@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>11677153-abb7-404e-85e3-cb1c5af5ae84</webElementGuid>
+      <webElementGuid>fa869b28-9ca9-4102-83ce-d40433acf404</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>59932302-4d18-4c7d-88c1-af2a1285a0e1</webElementGuid>
+      <webElementGuid>1dced50e-60d2-497b-a3a0-bef2a54168f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>dbPrefix</value>
-      <webElementGuid>7ebab773-d6c5-461e-87f1-b67b0a16e0f9</webElementGuid>
+      <webElementGuid>a5f6cb1e-d92d-42e3-b927-bb46fad9f820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>mongodb://127.0.0.1:27017</value>
-      <webElementGuid>6cf97d3f-92eb-4369-872f-adb4438d03f7</webElementGuid>
+      <webElementGuid>3523ecfa-3a4e-49f3-9433-85382c2eb789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-full p-3 border rounded-md bg-gray-50 </value>
-      <webElementGuid>fbeef721-d592-4b7d-b4ba-ce071055891c</webElementGuid>
+      <webElementGuid>98cbcb23-c50b-4bc9-b7bb-08ce000b8b70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[9]/input[@class=&quot;w-full p-3 border rounded-md bg-gray-50&quot;]</value>
-      <webElementGuid>9adf6e5d-a086-4783-8055-7b109c5963e3</webElementGuid>
+      <webElementGuid>35d76bc5-132f-4d7b-9157-fd96eaef6656</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='dbPrefix']</value>
-      <webElementGuid>876817c6-73da-468b-a33a-b6359cd70fbc</webElementGuid>
+      <webElementGuid>0161b5f7-ede3-4477-a466-e640b83416c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[9]/input</value>
-      <webElementGuid>b4e135bc-1cd5-4fb9-af76-bc2f6766169e</webElementGuid>
+      <webElementGuid>5e040678-99a7-4bf3-a4ed-4aebf7855884</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/input</value>
-      <webElementGuid>36688d2c-054e-424e-be46-4bc1a529994b</webElementGuid>
+      <webElementGuid>6dff956e-e785-4264-9f98-01bbfd8aed30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'dbPrefix' and @placeholder = 'mongodb://127.0.0.1:27017']</value>
-      <webElementGuid>236f5ec2-72bf-45f5-baa0-444d22bdb0d9</webElementGuid>
+      <webElementGuid>f691f011-b888-4d5b-94d1-906362c8b633</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

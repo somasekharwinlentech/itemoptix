@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SaleExitPutawayRetirementReturn</name>
+   <tag></tag>
+   <elementGuidId>91658933-7388-4b0b-baeb-4b036618be0d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[3]/div/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Process TypeSaleExitPutawayRetirementReturn$/ >> internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1a3bcb67-ed29-46f1-b3bf-c7a4c6c8c963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appearance-none w-44 h-9 text-left ps-5 bg-background-primary border-2 border-[#008B8B] rounded-[10px] text-text-primary text-sm focus:outline-none focus:ring-2 focus:ring-[#008B8B] focus:ring-opacity-50 cursor-pointer pr-5 </value>
+      <webElementGuid>84dee9aa-1e6b-46ae-941c-4aea0649b262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SaleExitPutawayRetirementReturn</value>
+      <webElementGuid>cec48c48-64a0-41c2-b97f-11343d12df86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;overflow-hidden flex flex-col&quot;]/div[@class=&quot;bg-background-primary w-full&quot;]/div[@class=&quot;flex justify-center px-3 gap-5&quot;]/div[@class=&quot;flex items-center justify-around gap-5&quot;]/div[@class=&quot;flex flex-col gap-1 relative&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;relative&quot;]/select[@class=&quot;appearance-none w-44 h-9 text-left ps-5 bg-background-primary border-2 border-[#008B8B] rounded-[10px] text-text-primary text-sm focus:outline-none focus:ring-2 focus:ring-[#008B8B] focus:ring-opacity-50 cursor-pointer pr-5&quot;]</value>
+      <webElementGuid>9707b148-623a-4009-bafc-32f58710e020</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[3]/div/div/div/select</value>
+      <webElementGuid>bd9d5cdb-bb40-43ca-b1b5-180eb768bb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Process Type'])[1]/following::select[1]</value>
+      <webElementGuid>8beb24f9-d7a0-46bb-8359-4b38f8ce787e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return'])[1]/following::select[1]</value>
+      <webElementGuid>54671dad-9a75-4c89-aba3-7d3be95105e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/preceding::select[1]</value>
+      <webElementGuid>71533ca0-6f9f-4b25-bb35-2dffdbe0cd55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Range'])[1]/preceding::select[2]</value>
+      <webElementGuid>5835fdec-eb08-4087-aee0-f8bde6e830d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/select</value>
+      <webElementGuid>ddc24934-fa54-4419-bb2b-fa7c9b3a17e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'SaleExitPutawayRetirementReturn' or . = 'SaleExitPutawayRetirementReturn')]</value>
+      <webElementGuid>562f366e-de71-4f7f-bb5e-dbaa2fc977f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Name_w-full px-3 py-2 border-b border_53872a</name>
+   <tag></tag>
+   <elementGuidId>eb48a905-de49-41b5-bc6c-aa9a3404f87b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> internal:role=textbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1d7417df-925d-4448-abff-5fe3a68f49a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>e383ed59-92cd-4031-8f00-feb0096907b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-full px-3 py-2 border-b border-gray-800 focus:outline-none focus:border-teal-500 mb-2</value>
+      <webElementGuid>7b250d37-fbc0-4766-9364-0c44f1a8847f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[1]/div[@class=&quot;w-full h-[calc(100vh-4rem)] overflow-hidden&quot;]/div[@class=&quot;w-full h-full&quot;]/div[@class=&quot;max-w-full bg-background-primary font-roboto&quot;]/div[@class=&quot;flex justify-between items-center px-5 py-8&quot;]/div[@class=&quot;fixed inset-0 bg-black bg-opacity-50  flex items-center justify-center z-50&quot;]/div[@class=&quot;bg-white rounded-md shadow-lg w-full max-w-4xl&quot;]/div[@class=&quot;p-8 h-[400px] flex flex-col&quot;]/div[@class=&quot;overflow-y-auto flex-grow scrollbar-thin scrollbar-thumb-gray-300 scrollbar-track-gray-100&quot;]/div[@class=&quot;max-w-2xl mx-auto p-4 bg-white rounded&quot;]/div[1]/input[@class=&quot;w-full px-3 py-2 border-b border-gray-800 focus:outline-none focus:border-teal-500 mb-2&quot;]</value>
+      <webElementGuid>d92c6acf-68e8-4e1c-b16f-6b3dbb011ef6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>4be49214-1478-4d3c-942a-56571559ff0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div[2]/div/div[2]/div[2]/div/div/input</value>
+      <webElementGuid>c5d5cf9b-997c-4320-8ae8-6323d915ac6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>b1315227-a5e0-4b63-aab3-66a1ff2a2e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>c5e15464-c188-43c0-a616-6881c2c35059</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

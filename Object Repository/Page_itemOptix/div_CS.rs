@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div</value>
+         <value>//div[@id='root']/div[2]/div/div[4]/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>10f1f919-b7f1-48d2-9f12-de59ea2e74d1</webElementGuid>
+      <webElementGuid>190a2c5c-649f-43d3-b2ba-6adbab639751</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>w-9 h-9 rounded-full bg-white flex items-center justify-center border text-teal-600 cursor-pointer text-lg hover:bg-teal-100</value>
-      <webElementGuid>603d22db-9f80-4ec0-a1a8-caebfde83b7d</webElementGuid>
+      <webElementGuid>a13a1c53-ee5a-4f78-a3b3-b89883aa30c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,39 +45,47 @@
       <name>text</name>
       <type>Main</type>
       <value>CS</value>
-      <webElementGuid>070ad48b-9935-458c-8851-baca7fbcfb8f</webElementGuid>
+      <webElementGuid>79ee6a63-bf6d-49c8-8d83-bd871ab8c95f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;sticky z-50 top-0 w-full bg-[#008b8b] text-text-white font-semibold&quot;]/div[@class=&quot;flex items-center justify-between px-6 min-h-[60px]&quot;]/div[@class=&quot;relative flex items-center justify-between gap-1 ml-[20px] space-x-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-9 h-9 rounded-full bg-white flex items-center justify-center border text-teal-600 cursor-pointer text-lg hover:bg-teal-100&quot;]</value>
-      <webElementGuid>e61c8ad8-75a0-4f87-a9db-2ede3ed77e73</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sticky z-50 top-0 w-full bg-[#008b8b] text-text-white font-semibold&quot;]/div[@class=&quot;flex items-center justify-between px-6 min-h-[60px]&quot;]/div[@class=&quot;relative flex items-center justify-between gap-1 ml-[20px] space-x-4&quot;]/div[@class=&quot;relative&quot;]/div[@class=&quot;w-9 h-9 rounded-full bg-white flex items-center justify-center border text-teal-600 cursor-pointer text-lg hover:bg-teal-100&quot;]</value>
+      <webElementGuid>e59004e9-c077-4ad6-bdba-47b77f4a6681</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div</value>
-      <webElementGuid>66e140d9-a1ab-4896-aef4-87687648cfe6</webElementGuid>
+      <value>//div[@id='root']/div[2]/div/div[4]/div[2]/div</value>
+      <webElementGuid>da3337db-7f92-447e-a923-afe835d00c9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[4]</value>
-      <webElementGuid>fe914fa7-ec4a-44a4-b8bb-1e4853de94c9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/following::div[7]</value>
+      <webElementGuid>72158f4f-8b6d-4a1a-8455-b0e4b2500878</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Management'])[1]/following::div[4]</value>
-      <webElementGuid>5df57347-5ff4-499a-aa13-3e3141b39203</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipments'])[1]/following::div[7]</value>
+      <webElementGuid>9ec6113d-5c9b-446f-aa50-3df831434c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagging History'])[1]/preceding::div[1]</value>
+      <webElementGuid>ae688d83-d16e-4a4b-8fa9-ede3758a44b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,15 +93,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='CS']/parent::*</value>
-      <webElementGuid>db87990b-e723-458e-9ab0-19bc53642891</webElementGuid>
+      <webElementGuid>86638065-f4c6-4f5b-85f7-bb012ce82354</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div[2]/div</value>
-      <webElementGuid>14967bf7-d79d-40e2-89f9-19b392ae3386</webElementGuid>
+      <value>//div[4]/div[2]/div</value>
+      <webElementGuid>3229c80c-3451-4dbe-856f-4bbb1089be84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +109,54 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'CS' or . = 'CS')]</value>
-      <webElementGuid>3a03e769-8c98-4445-bee0-db61995a6c0f</webElementGuid>
+      <webElementGuid>a115f296-a7f3-4b7b-9254-21325b3a11d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div[3]/div[2]/div</value>
+      <webElementGuid>c8b9c57b-8dce-4bbb-af64-83328e31d78b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[4]</value>
+      <webElementGuid>94f696dc-0dea-4f1c-bf17-e181d1d7a5c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Management'])[1]/following::div[4]</value>
+      <webElementGuid>8097be86-ceb3-4109-a9f7-22297c89fa76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Details'])[1]/preceding::div[1]</value>
+      <webElementGuid>25adb1e8-b973-4730-a36c-20f3b11c82c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have access to the following Accounts..'])[1]/preceding::div[3]</value>
+      <webElementGuid>fea7ea2e-0c3e-4e30-9b73-c379d417b403</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>4f61d4da-e8ff-4a03-b10f-a0d687f8d091</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

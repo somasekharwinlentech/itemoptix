@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1203200744wide-bottom-jeans1DisplaySale_eaf85a</name>
+   <tag></tag>
+   <elementGuidId>a663e68d-b04b-4b3d-b025-4890404ef2a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myGrid']/div/div[3]/div[2]/div[2]/div[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ag-body-viewport.ag-row-animation.ag-layout-normal.ag-selectable > div.ag-center-cols-viewport</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#myGrid >> internal:role=treegrid >> div >> internal:has-text=&quot;1203200744wide-bottom-jeans1DisplaySales Floor_1N/ANOT AVAILABLEjeansfemaleStyle&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4be772d7-daca-4b45-9ed8-2f4a1877c1dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ag-center-cols-viewport</value>
+      <webElementGuid>3769b434-0fc0-4fcb-99ae-99558b0e55ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>74c10549-4318-4253-873c-6f0109841be5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1203200744wide-bottom-jeans1DisplaySales Floor_1N/ANOT AVAILABLEjeansfemaleStyle_002562blackAB</value>
+      <webElementGuid>edcb3668-f896-4398-a436-2c7861cf7aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myGrid&quot;)/div[1]/div[@class=&quot;ag-root-wrapper ag-ltr ag-layout-normal&quot;]/div[@class=&quot;ag-root-wrapper-body ag-focus-managed ag-layout-normal&quot;]/div[@class=&quot;ag-root ag-unselectable ag-layout-normal&quot;]/div[@class=&quot;ag-body ag-layout-normal&quot;]/div[@class=&quot;ag-body-viewport ag-row-animation ag-layout-normal ag-selectable&quot;]/div[@class=&quot;ag-center-cols-viewport&quot;]</value>
+      <webElementGuid>210c43e6-c437-4c86-b613-387fac4f5928</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myGrid']/div/div[3]/div[2]/div[2]/div[4]/div/div[2]</value>
+      <webElementGuid>b01967d8-8c60-45a7-9f81-fbe873f83aa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::div[12]</value>
+      <webElementGuid>62b9e3de-33f5-4b19-901c-a63dca096692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metadatatypetest'])[1]/following::div[20]</value>
+      <webElementGuid>f6470eaa-fef3-479c-b419-e241fa3cac0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div[2]/div[2]/div[4]/div/div[2]</value>
+      <webElementGuid>54b67bb5-b712-410c-bcbe-a08a61478070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1203200744wide-bottom-jeans1DisplaySales Floor_1N/ANOT AVAILABLEjeansfemaleStyle_002562blackAB' or . = '1203200744wide-bottom-jeans1DisplaySales Floor_1N/ANOT AVAILABLEjeansfemaleStyle_002562blackAB')]</value>
+      <webElementGuid>623f54aa-9e50-47e6-b778-610e3f3b6189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

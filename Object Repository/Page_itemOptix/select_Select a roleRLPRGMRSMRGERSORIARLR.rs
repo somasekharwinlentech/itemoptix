@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select a roleRLPRGMRSMRGERSORIARLR</name>
+   <tag></tag>
+   <elementGuidId>e4eb1ebb-513b-4c1e-a3bb-0d806ced3514</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='role']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;role&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>select[name=&quot;role&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9df29a92-0c5c-4134-b999-d2b2d8738896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>role</value>
+      <webElementGuid>9ffe4be9-0d4a-4da8-b245-30e38093e549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full border border-gray-300 rounded-md shadow-sm p-3</value>
+      <webElementGuid>2a472efb-4384-437b-afad-c2eaea98eca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a roleRLPRGMRSMRGERSORIARLR</value>
+      <webElementGuid>d4e6af8b-595f-471e-88d4-0e73b5ba5987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;w-full&quot;]/div[2]/div[@class=&quot;max-w-full bg-background-primary relative&quot;]/div[@class=&quot;fixed z-50 inset-0 bg-black bg-opacity-50 flex justify-center items-center&quot;]/div[@class=&quot;bg-white p-8 rounded-lg w-full max-w-6xl h-[90vh] flex flex-col overflow-y-auto&quot;]/form[@class=&quot;flex-1 flex flex-col&quot;]/div[@class=&quot;flex-1 space-y-6&quot;]/div[@class=&quot;grid grid-cols-2 gap-6&quot;]/div[2]/select[@class=&quot;block w-full border border-gray-300 rounded-md shadow-sm p-3&quot;]</value>
+      <webElementGuid>4e0ab322-69f4-4c5f-a594-0bd83507f2a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='role']</value>
+      <webElementGuid>bcfd143f-6d75-4928-b9df-f8e6a84efd80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div/div[2]/div/div[3]/div/form/div/div/div[2]/select</value>
+      <webElementGuid>f688c998-9910-482f-8f7d-7d621d8bd55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::select[1]</value>
+      <webElementGuid>99ceef56-01e1-47c7-9169-e2bb24e9eccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::select[1]</value>
+      <webElementGuid>64e0e962-0c94-41f0-b8f3-c700d5b87c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>65d99adc-671a-46ca-8dff-81edbf97cc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'role' and (text() = 'Select a roleRLPRGMRSMRGERSORIARLR' or . = 'Select a roleRLPRGMRSMRGERSORIARLR')]</value>
+      <webElementGuid>8038ea79-e316-4c66-9dbe-8d25f99e0c7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

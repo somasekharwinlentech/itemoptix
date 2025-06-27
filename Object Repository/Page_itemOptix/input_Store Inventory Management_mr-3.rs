@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='checkbox'])[13]</value>
+         <value>(//input[@type='checkbox'])[12]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65f2430a-2342-42a0-a17a-3c6a03c9cb45</webElementGuid>
+      <webElementGuid>e03dfab3-de30-4531-8df9-75b99f6c3758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>c4cb592a-8c9a-41d3-b140-5ec66c5c00d5</webElementGuid>
+      <webElementGuid>cac824b0-c23b-42bc-b2a5-7b74a6d4e3ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>mr-3</value>
-      <webElementGuid>d47d0067-03cc-4379-9f62-6b4dcddb636e</webElementGuid>
+      <webElementGuid>d61ed195-787b-4f48-9bed-4730a40d6001</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;min-h-screen&quot;]/main[1]/div[@class=&quot;bg-gray-50 w-full h-[calc(100vh-4rem)] flex flex-col items-center&quot;]/div[@class=&quot;fixed inset-0 z-50 flex items-center justify-center&quot;]/div[@class=&quot;relative bg-background-primary rounded-sm shadow-lg w-full max-w-6xl mx-4 min-h-[92vh] overflow-y-auto&quot;]/div[@class=&quot;p-6&quot;]/div[@class=&quot;border-b&quot;]/div[@class=&quot;grid grid-cols-1 md:grid-cols-2 gap-8 max-h-[63vh] overflow-y-auto p-6&quot;]/div[@class=&quot;space-y-6&quot;]/div[2]/div[@class=&quot;space-y-2&quot;]/label[@class=&quot;flex items-center&quot;]/input[@class=&quot;mr-3&quot;]</value>
-      <webElementGuid>11ad2312-bd12-4e56-bd19-42d37119d553</webElementGuid>
+      <webElementGuid>8c6c7321-56c2-46ef-b80e-e30075253df0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='checkbox'])[13]</value>
-      <webElementGuid>863f0c31-a07f-4d18-95eb-d6b17c60f1cf</webElementGuid>
+      <value>(//input[@type='checkbox'])[12]</value>
+      <webElementGuid>5451a81a-91b4-437c-bc1f-bead0dc64de9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/main/div/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/label/input</value>
-      <webElementGuid>d5555276-1785-4302-9f00-eab702dffb31</webElementGuid>
+      <webElementGuid>231252b4-da19-476a-96c1-d86dad1934b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/input</value>
-      <webElementGuid>e5c624a1-3dab-4630-a0ba-9a16b6c6d795</webElementGuid>
+      <webElementGuid>2719be39-e350-4ee0-b545-a86fb3db3806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>6c67fbff-42dd-4855-842b-fc1d39e3beec</webElementGuid>
+      <webElementGuid>5aeadb96-4ef7-44c6-b479-abf9c2058342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='checkbox'])[13]</value>
+      <webElementGuid>863f0c31-a07f-4d18-95eb-d6b17c60f1cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
